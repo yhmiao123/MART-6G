@@ -8,3 +8,5 @@ This is the public repository of the Multi-Task Adaptive Ray-Tracing Platform fo
 - **环境孪生模块**负责重建建筑几何.
 - **RT引擎模块**整合了传播、加速、校准、6G 特定的新功能等主要算法。
 - **信道生成模块**负责生成信道多径、参数、统计分布。
+## Platform Architecture
+The platform's architecture is shown in the figure below. For a deeper understanding, please refer to the paper: "Road to 6G Digital Twin Networks: Multi-Task Adaptive Ray-Tracing as a Key Enabler". Link: [https://arxiv.org/abs/2502.14290](https://arxiv.org/abs/2502.14290)
