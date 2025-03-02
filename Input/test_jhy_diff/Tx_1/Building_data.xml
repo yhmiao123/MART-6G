@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<tBuildings>
+  <tBuilding>
+    <tFace>
+      <fPointPos>0.000 9.900 0.000 0.000 9.900 10.000 0.000 10.100 10.000 0.000 10.100 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.100 0.000 0.000 10.100 10.000 20.000 10.100 10.000 20.000 10.100 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>20.000 10.100 0.000 20.000 10.100 10.000 20.000 9.900 10.000 20.000 9.900 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>20.000 9.900 0.000 20.000 9.900 10.000 0.000 9.900 10.000 0.000 9.900 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.100 0.000 20.000 10.100 0.000 20.000 9.900 0.000 0.000 9.900 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>20.000 10.100 10.000 0.000 10.100 10.000 0.000 9.900 10.000 20.000 9.900 10.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+  </tBuilding>
+</tBuildings>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tBuildings>
+  <tBuilding>
+    <tFace>
+      <fPointPos>6.350 2.788 0.927 6.350 3.212 0.927 6.350 3.212 1.352 6.350 2.788 1.352</fPointPos>
+      <material>15</material>
+      <thickness>0.15</thickness>
+    </tFace>
+  </tBuilding>
+  <tBuilding>
+    <tFace>
+      <fPointPos>6.350 3.288 0.927 6.350 3.712 0.927 6.350 3.712 1.352 6.350 3.288 1.352</fPointPos>
+      <material>15</material>
+      <thickness>0.15</thickness>
+    </tFace>
+  </tBuilding>
+  <tBuilding>
+    <tFace>
+      <fPointPos>6.350 3.788 0.927 6.350 4.213 0.927 6.350 4.213 1.352 6.350 3.788 1.352</fPointPos>
+      <material>15</material>
+      <thickness>0.15</thickness>
+    </tFace>
+  </tBuilding>
+  <tBuilding>
+    <tFace>
+      <fPointPos>6.350 4.287 0.927 6.350 4.713 0.927 6.350 4.713 1.352 6.350 4.287 1.352</fPointPos>
+      <material>15</material>
+      <thickness>0.15</thickness>
+    </tFace>
+  </tBuilding>
+  <tBuilding>
+    <tFace>
+      <fPointPos>6.350 4.787 0.927 6.350 5.213 0.927 6.350 5.213 1.352 6.350 4.787 1.352</fPointPos>
+      <material>15</material>
+      <thickness>0.15</thickness>
+    </tFace>
+  </tBuilding>
+  <tBuilding>
+    <tFace>
+      <fPointPos>6.350 5.287 0.927 6.350 5.713 0.927 6.350 5.713 1.352 6.350 5.287 1.352</fPointPos>
+      <material>15</material>
+      <thickness>0.15</thickness>
+    </tFace>
+  </tBuilding>
+  <tBuilding>
+    <tFace>
+      <fPointPos>6.350 5.787 0.927 6.350 6.213 0.927 6.350 6.213 1.352 6.350 5.787 1.352</fPointPos>
+      <material>15</material>
+      <thickness>0.15</thickness>
+    </tFace>
+  </tBuilding>
+  <tBuilding>
+    <tFace>
+      <fPointPos>6.350 6.287 0.927 6.350 6.713 0.927 6.350 6.713 1.352 6.350 6.287 1.352</fPointPos>
+      <material>15</material>
+      <thickness>0.15</thickness>
+    </tFace>
+  </tBuilding>
+  <tBuilding>
+    <tFace>
+      <fPointPos>6.350 6.787 0.927 6.350 7.213 0.927 6.350 7.213 1.352 6.350 6.787 1.352</fPointPos>
+      <material>15</material>
+      <thickness>0.15</thickness>
+    </tFace>
+  </tBuilding>
+  <tBuilding>
+    <tFace>
+      <fPointPos>6.350 7.287 0.927 6.350 7.713 0.927 6.350 7.713 1.352 6.350 7.287 1.352</fPointPos>
+      <material>15</material>
+      <thickness>0.15</thickness>
+    </tFace>
+  </tBuilding>
+</tBuildings>

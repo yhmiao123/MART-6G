@@ -1,0 +1,4102 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<tBuildings>
+  <tBuilding>
+    <tFace>
+      <fPointPos>79.560 301.531 47.966 103.235 301.531 47.966 103.235 301.531 36.128 79.560 301.531 36.128</fPointPos>
+      <buildingID>平面</buildingID>
+      <material>1</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>100.648 100.322 0.000 100.648 100.322 20.757 100.648 126.167 20.757 100.648 126.167 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>100.648 126.167 0.000 100.648 126.167 20.757 126.940 126.167 20.757 126.940 126.167 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>126.940 126.167 0.000 126.940 126.167 20.757 126.940 100.322 20.757 126.940 100.322 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>126.940 100.322 0.000 126.940 100.322 20.757 100.648 100.322 20.757 100.648 100.322 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>100.648 126.167 0.000 126.940 126.167 0.000 126.940 100.322 0.000 100.648 100.322 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>126.940 126.167 20.757 100.648 126.167 20.757 100.648 100.322 20.757 126.940 100.322 20.757</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+  </tBuilding>
+  <tBuilding>
+    <tFace>
+      <fPointPos>-55.733 -105.067 0.000 -54.487 -142.938 0.000 -54.487 -142.938 17.403 -55.733 -105.067 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-54.487 -142.938 0.000 -37.098 -141.079 0.000 -37.098 -141.079 17.403 -54.487 -142.938 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-37.098 -141.079 0.000 -36.483 -135.490 0.000 -36.483 -135.490 17.403 -37.098 -141.079 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-36.483 -135.490 0.000 25.618 -133.008 0.000 25.618 -133.008 17.403 -36.483 -135.490 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>25.618 -133.008 0.000 26.855 -139.843 0.000 26.855 -139.843 17.403 25.618 -133.008 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>26.855 -139.843 0.000 43.622 -139.843 0.000 43.622 -139.843 17.403 26.855 -139.843 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>43.622 -139.843 0.000 41.138 -101.961 0.000 41.138 -101.961 17.403 43.622 -139.843 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>41.138 -101.961 0.000 26.240 -102.584 0.000 26.240 -102.584 17.403 41.138 -101.961 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>26.240 -102.584 0.000 24.995 -114.997 0.000 24.995 -114.997 17.403 26.240 -102.584 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>24.995 -114.997 0.000 -37.720 -116.867 0.000 -37.720 -116.867 17.403 24.995 -114.997 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-37.720 -116.867 0.000 -38.966 -105.067 0.000 -38.966 -105.067 17.403 -37.720 -116.867 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-38.966 -105.067 0.000 -55.733 -105.067 0.000 -55.733 -105.067 17.403 -38.966 -105.067 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-54.487 -142.938 17.403 -37.098 -141.079 17.403 -36.483 -135.490 17.403 25.618 -133.008 17.403 26.855 -139.843 17.403 43.622 -139.843 17.403 41.138 -101.961 17.403 26.240 -102.584 17.403 24.995 -114.997 17.403 -37.720 -116.867 17.403 -38.966 -105.067 17.403 -55.733 -105.067 17.403</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-174.830 309.121 0.000 -187.663 308.688 0.000 -187.663 308.688 4.376 -174.830 309.121 4.376</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-187.663 308.688 0.000 -186.554 290.910 0.000 -186.554 290.910 4.376 -187.663 308.688 4.376</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-186.554 290.910 0.000 -174.199 290.954 0.000 -174.199 290.954 4.376 -186.554 290.910 4.376</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-174.199 290.954 0.000 -174.830 309.121 0.000 -174.830 309.121 4.376 -174.199 290.954 4.376</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-187.663 308.688 4.376 -186.554 290.910 4.376 -174.199 290.954 4.376 -174.830 309.121 4.376</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>5.062 215.567 0.000 -49.203 213.685 0.000 -49.203 213.685 7.522 5.062 215.567 7.522</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-49.203 213.685 0.000 -48.401 190.665 0.000 -48.401 190.665 7.522 -49.203 213.685 7.522</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-48.401 190.665 0.000 5.864 192.535 0.000 5.864 192.535 7.522 -48.401 190.665 7.522</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>5.864 192.535 0.000 5.062 215.567 0.000 5.062 215.567 7.522 5.864 192.535 7.522</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-49.203 213.685 7.522 -48.401 190.665 7.522 5.864 192.535 7.522 5.062 215.567 7.522</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-46.003 237.497 0.000 -57.326 236.706 0.000 -57.326 236.706 16.442 -46.003 237.497 16.442</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-57.326 236.706 0.000 -56.157 217.927 0.000 -56.157 217.927 16.442 -57.326 236.706 16.442</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-56.157 217.927 0.000 -45.005 218.405 0.000 -45.005 218.405 16.442 -56.157 217.927 16.442</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-45.005 218.405 0.000 -46.003 237.497 0.000 -46.003 237.497 16.442 -45.005 218.405 16.442</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-57.326 236.706 16.442 -56.157 217.927 16.442 -45.005 218.405 16.442 -46.003 237.497 16.442</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-255.332 293.227 0.000 -254.959 224.109 0.000 -254.959 224.109 8.055 -255.332 293.227 8.055</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-254.959 224.109 0.000 -240.318 225.489 0.000 -240.318 225.489 8.055 -254.959 224.109 8.055</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-240.318 225.489 0.000 -241.715 293.227 0.000 -241.715 293.227 8.055 -240.318 225.489 8.055</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-241.715 293.227 0.000 -255.332 293.227 0.000 -255.332 293.227 8.055 -241.715 293.227 8.055</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-254.959 224.109 8.055 -240.318 225.489 8.055 -241.715 293.227 8.055 -255.332 293.227 8.055</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-253.364 216.328 0.000 -247.412 99.386 0.000 -247.412 99.386 4.499 -253.364 216.328 4.499</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-247.412 99.386 0.000 -235.518 100.755 0.000 -235.518 100.755 4.499 -247.412 99.386 4.499</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-235.518 100.755 0.000 -241.231 216.105 0.000 -241.231 216.105 4.499 -235.518 100.755 4.499</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-241.231 216.105 0.000 -253.364 216.328 0.000 -253.364 216.328 4.499 -241.231 216.105 4.499</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-247.412 99.386 4.499 -235.518 100.755 4.499 -241.231 216.105 4.499 -253.364 216.328 4.499</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-190.720 208.678 0.000 -224.260 206.152 0.000 -224.260 206.152 4.274 -190.720 208.678 4.274</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-224.260 206.152 0.000 -223.126 190.779 0.000 -223.126 190.779 4.274 -224.260 206.152 4.274</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-223.126 190.779 0.000 -164.944 192.870 0.000 -164.944 192.870 4.274 -223.126 190.779 4.274</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-164.944 192.870 0.000 -165.788 208.188 0.000 -165.788 208.188 4.274 -164.944 192.870 4.274</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-165.788 208.188 0.000 -190.720 208.678 0.000 -190.720 208.678 4.274 -165.788 208.188 4.274</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-224.260 206.152 4.274 -223.126 190.779 4.274 -164.944 192.870 4.274 -165.788 208.188 4.274 -190.720 208.678 4.274</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-168.742 153.307 0.000 -225.090 151.962 0.000 -225.090 151.962 7.245 -168.742 153.307 7.245</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-225.090 151.962 0.000 -224.075 134.073 0.000 -224.075 134.073 7.245 -225.090 151.962 7.245</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-224.075 134.073 0.000 -167.394 134.417 0.000 -167.394 134.417 7.245 -224.075 134.073 7.245</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-167.394 134.417 0.000 -168.742 153.307 0.000 -168.742 153.307 7.245 -167.394 134.417 7.245</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-225.090 151.962 7.245 -224.075 134.073 7.245 -167.394 134.417 7.245 -168.742 153.307 7.245</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-91.651 214.632 0.000 -151.403 212.952 0.000 -151.403 212.952 4.220 -91.651 214.632 4.220</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-151.403 212.952 0.000 -149.867 194.195 0.000 -149.867 194.195 4.220 -151.403 212.952 4.220</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-149.867 194.195 0.000 -92.479 196.554 0.000 -92.479 196.554 4.220 -149.867 194.195 4.220</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-92.479 196.554 0.000 -91.651 214.632 0.000 -91.651 214.632 4.220 -92.479 196.554 4.220</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-151.403 212.952 4.220 -149.867 194.195 4.220 -92.479 196.554 4.220 -91.651 214.632 4.220</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-94.587 155.154 0.000 -151.942 154.142 0.000 -151.942 154.142 4.837 -94.587 155.154 4.837</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-151.942 154.142 0.000 -150.935 136.264 0.000 -150.935 136.264 4.837 -151.942 154.142 4.837</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-150.935 136.264 0.000 -93.239 137.955 0.000 -93.239 137.955 4.837 -150.935 136.264 4.837</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-93.239 137.955 0.000 -94.587 155.154 0.000 -94.587 155.154 4.837 -93.239 137.955 4.837</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-151.942 154.142 4.837 -150.935 136.264 4.837 -93.239 137.955 4.837 -94.587 155.154 4.837</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-205.304 101.612 0.000 -224.187 100.955 0.000 -224.187 100.955 7.338 -205.304 101.612 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-224.187 100.955 0.000 -223.658 85.627 0.000 -223.658 85.627 7.338 -224.187 100.955 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-223.658 85.627 0.000 -204.025 86.305 0.000 -204.025 86.305 7.338 -223.658 85.627 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-204.025 86.305 0.000 -203.914 83.032 0.000 -203.914 83.032 7.338 -204.025 86.305 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-203.914 83.032 0.000 -182.702 83.755 0.000 -182.702 83.755 7.338 -203.914 83.032 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-182.702 83.755 0.000 -182.822 87.262 0.000 -182.822 87.262 7.338 -182.702 83.755 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-182.822 87.262 0.000 -165.236 87.863 0.000 -165.236 87.863 7.338 -182.822 87.262 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-165.236 87.863 0.000 -165.731 102.379 0.000 -165.731 102.379 7.338 -165.236 87.863 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-165.731 102.379 0.000 -183.598 101.778 0.000 -183.598 101.778 7.338 -165.731 102.379 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-183.598 101.778 0.000 -183.709 105.017 0.000 -183.709 105.017 7.338 -183.598 101.778 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-183.709 105.017 0.000 -204.630 104.317 0.000 -204.630 104.317 7.338 -183.709 105.017 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-204.630 104.317 0.000 -205.304 101.612 0.000 -205.304 101.612 7.338 -204.630 104.317 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-224.187 100.955 7.338 -223.658 85.627 7.338 -204.025 86.305 7.338 -203.914 83.032 7.338 -182.702 83.755 7.338 -182.822 87.262 7.338 -165.236 87.863 7.338 -165.731 102.379 7.338 -183.598 101.778 7.338 -183.709 105.017 7.338 -204.630 104.317 7.338 -205.304 101.612 7.338</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-133.240 102.567 0.000 -149.767 101.644 0.000 -149.767 101.644 7.879 -133.240 102.567 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-149.767 101.644 0.000 -148.991 87.662 0.000 -148.991 87.662 7.879 -149.767 101.644 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-148.991 87.662 0.000 -129.614 88.753 0.000 -129.614 88.753 7.879 -148.991 87.662 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-129.614 88.753 0.000 -129.434 85.535 0.000 -129.434 85.535 7.879 -129.614 88.753 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-129.434 85.535 0.000 -109.545 86.648 0.000 -109.545 86.648 7.879 -129.434 85.535 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-109.545 86.648 0.000 -109.724 89.943 0.000 -109.724 89.943 7.879 -109.545 86.648 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-109.724 89.943 0.000 -91.619 90.956 0.000 -91.619 90.956 7.879 -109.724 89.943 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-91.619 90.956 0.000 -92.386 104.615 0.000 -92.386 104.615 7.879 -91.619 90.956 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-92.386 104.615 0.000 -110.688 103.580 0.000 -110.688 103.580 7.879 -92.386 104.615 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-110.688 103.580 0.000 -110.927 107.754 0.000 -110.927 107.754 7.879 -110.688 103.580 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-110.927 107.754 0.000 -133.461 106.486 0.000 -133.461 106.486 7.879 -110.927 107.754 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-133.461 106.486 0.000 -133.240 102.567 0.000 -133.240 102.567 7.879 -133.461 106.486 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-149.767 101.644 7.879 -148.991 87.662 7.879 -129.614 88.753 7.879 -129.434 85.535 7.879 -109.545 86.648 7.879 -109.724 89.943 7.879 -91.619 90.956 7.879 -92.386 104.615 7.879 -110.688 103.580 7.879 -110.927 107.754 7.879 -133.461 106.486 7.879 -133.240 102.567 7.879</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-133.168 -218.589 0.000 -132.179 -229.454 0.000 -132.179 -229.454 16.258 -133.168 -218.589 16.258</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-132.179 -229.454 0.000 -97.519 -227.618 0.000 -97.519 -227.618 16.258 -132.179 -229.454 16.258</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-97.519 -227.618 0.000 -98.525 -216.686 0.000 -98.525 -216.686 16.258 -97.519 -227.618 16.258</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-98.525 -216.686 0.000 -133.168 -218.589 0.000 -133.168 -218.589 16.258 -98.525 -216.686 16.258</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-132.179 -229.454 16.258 -97.519 -227.618 16.258 -98.525 -216.686 16.258 -133.168 -218.589 16.258</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-75.470 -278.191 0.000 -78.098 -226.583 0.000 -78.098 -226.583 16.847 -75.470 -278.191 16.847</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-78.098 -226.583 0.000 -135.703 -229.643 0.000 -135.703 -229.643 16.847 -78.098 -226.583 16.847</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-135.703 -229.643 0.000 -131.804 -280.394 0.000 -131.804 -280.394 16.847 -135.703 -229.643 16.847</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-131.804 -280.394 0.000 -75.470 -278.191 0.000 -75.470 -278.191 16.847 -131.804 -280.394 16.847</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-78.098 -226.583 16.847 -135.703 -229.643 16.847 -131.804 -280.394 16.847 -75.470 -278.191 16.847</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-127.325 -289.890 0.000 -126.352 -304.161 0.000 -126.352 -304.161 16.498 -127.325 -289.890 16.498</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-126.352 -304.161 0.000 -82.911 -302.213 0.000 -82.911 -302.213 16.498 -126.352 -304.161 16.498</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-82.911 -302.213 0.000 -84.532 -287.953 0.000 -84.532 -287.953 16.498 -82.911 -302.213 16.498</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-84.532 -287.953 0.000 -127.325 -289.890 0.000 -127.325 -289.890 16.498 -84.532 -287.953 16.498</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-126.352 -304.161 16.498 -82.911 -302.213 16.498 -84.532 -287.953 16.498 -127.325 -289.890 16.498</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-130.892 -330.421 0.000 -131.234 -342.020 0.000 -131.234 -342.020 17.330 -130.892 -330.421 17.330</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-131.234 -342.020 0.000 -77.126 -339.661 0.000 -77.126 -339.661 17.330 -131.234 -342.020 17.330</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-77.126 -339.661 0.000 -77.075 -328.474 0.000 -77.075 -328.474 17.330 -77.126 -339.661 17.330</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-77.075 -328.474 0.000 -130.892 -330.421 0.000 -130.892 -330.421 17.330 -77.075 -328.474 17.330</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-131.234 -342.020 17.330 -77.126 -339.661 17.330 -77.075 -328.474 17.330 -130.892 -330.421 17.330</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-216.499 -183.210 0.000 -215.526 -198.773 0.000 -215.526 -198.773 16.374 -216.499 -183.210 16.374</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-215.526 -198.773 0.000 -156.198 -196.503 0.000 -156.198 -196.503 16.374 -215.526 -198.773 16.374</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-156.198 -196.503 0.000 -156.198 -180.941 0.000 -156.198 -180.941 16.374 -156.198 -196.503 16.374</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-156.198 -180.941 0.000 -216.499 -183.210 0.000 -216.499 -183.210 16.374 -156.198 -180.941 16.374</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-215.526 -198.773 16.374 -156.198 -196.503 16.374 -156.198 -180.941 16.374 -216.499 -183.210 16.374</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-209.332 -211.129 0.000 -208.377 -225.378 0.000 -208.377 -225.378 16.048 -209.332 -211.129 16.048</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-208.377 -225.378 0.000 -156.233 -223.487 0.000 -156.233 -223.487 16.048 -208.377 -225.378 16.048</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-156.233 -223.487 0.000 -156.693 -209.761 0.000 -156.693 -209.761 16.048 -156.233 -223.487 16.048</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-156.693 -209.761 0.000 -209.332 -211.129 0.000 -209.332 -211.129 16.048 -156.693 -209.761 16.048</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-208.377 -225.378 16.048 -156.233 -223.487 16.048 -156.693 -209.761 16.048 -209.332 -211.129 16.048</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-207.976 -244.314 0.000 -207.976 -257.282 0.000 -207.976 -257.282 16.157 -207.976 -244.314 16.157</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-207.976 -257.282 0.000 -152.214 -253.721 0.000 -152.214 -253.721 16.157 -207.976 -257.282 16.157</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-152.214 -253.721 0.000 -153.835 -241.076 0.000 -153.835 -241.076 16.157 -152.214 -253.721 16.157</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-153.835 -241.076 0.000 -207.976 -244.314 0.000 -207.976 -244.314 16.157 -153.835 -241.076 16.157</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-207.976 -257.282 16.157 -152.214 -253.721 16.157 -153.835 -241.076 16.157 -207.976 -244.314 16.157</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-206.808 -284.378 0.000 -206.399 -297.758 0.000 -206.399 -297.758 14.461 -206.808 -284.378 14.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-206.399 -297.758 0.000 -152.053 -294.687 0.000 -152.053 -294.687 14.461 -206.399 -297.758 14.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-152.053 -294.687 0.000 -152.343 -282.442 0.000 -152.343 -282.442 14.461 -152.053 -294.687 14.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-152.343 -282.442 0.000 -206.808 -284.378 0.000 -206.808 -284.378 14.461 -152.343 -282.442 14.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-206.399 -297.758 14.461 -152.053 -294.687 14.461 -152.343 -282.442 14.461 -206.808 -284.378 14.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-206.758 -331.388 0.000 -206.852 -344.857 0.000 -206.852 -344.857 20.453 -206.758 -331.388 20.453</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-206.852 -344.857 0.000 -151.081 -342.733 0.000 -151.081 -342.733 20.453 -206.852 -344.857 20.453</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-151.081 -342.733 0.000 -151.320 -329.452 0.000 -151.320 -329.452 20.453 -151.081 -342.733 20.453</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-151.320 -329.452 0.000 -206.758 -331.388 0.000 -206.758 -331.388 20.453 -151.320 -329.452 20.453</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-206.852 -344.857 20.453 -151.081 -342.733 20.453 -151.320 -329.452 20.453 -206.758 -331.388 20.453</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-225.506 -369.681 0.000 -225.558 -380.668 0.000 -225.558 -380.668 15.669 -225.506 -369.681 15.669</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-225.558 -380.668 0.000 -102.000 -381.294 0.000 -102.000 -381.294 15.669 -225.558 -380.668 15.669</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-102.000 -381.294 0.000 -101.949 -370.285 0.000 -101.949 -370.285 15.669 -102.000 -381.294 15.669</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-101.949 -370.285 0.000 -225.506 -369.681 0.000 -225.506 -369.681 15.669 -101.949 -370.285 15.669</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-225.558 -380.668 15.669 -102.000 -381.294 15.669 -101.949 -370.285 15.669 -225.506 -369.681 15.669</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-92.989 -369.061 0.000 -93.032 -380.526 0.000 -93.032 -380.526 21.092 -92.989 -369.061 21.092</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-93.032 -380.526 0.000 -22.106 -380.828 0.000 -22.106 -380.828 21.092 -93.032 -380.526 21.092</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-22.106 -380.828 0.000 -22.055 -369.373 0.000 -22.055 -369.373 21.092 -22.106 -380.828 21.092</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-22.055 -369.373 0.000 -92.989 -369.061 0.000 -92.989 -369.061 21.092 -22.055 -369.373 21.092</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-93.032 -380.526 21.092 -22.106 -380.828 21.092 -22.055 -369.373 21.092 -92.989 -369.061 21.092</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-241.038 -147.097 0.000 -239.452 -187.017 0.000 -239.452 -187.017 16.069 -241.038 -147.097 16.069</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-239.452 -187.017 0.000 -225.620 -186.616 0.000 -225.620 -186.616 16.069 -239.452 -187.017 16.069</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-225.620 -186.616 0.000 -225.226 -147.098 0.000 -225.226 -147.098 16.069 -225.620 -186.616 16.069</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-225.226 -147.098 0.000 -234.715 -139.984 0.000 -234.715 -139.984 16.069 -225.226 -147.098 16.069</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-234.715 -139.984 0.000 -241.038 -147.097 0.000 -241.038 -147.097 16.069 -234.715 -139.984 16.069</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-239.452 -187.017 16.069 -225.620 -186.616 16.069 -225.226 -147.098 16.069 -234.715 -139.984 16.069 -241.038 -147.097 16.069</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-235.646 -196.112 0.000 -232.883 -249.066 0.000 -232.883 -249.066 16.739 -235.646 -196.112 16.739</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-232.883 -249.066 0.000 -223.787 -248.276 0.000 -223.787 -248.276 16.739 -232.883 -249.066 16.739</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-223.787 -248.276 0.000 -226.951 -195.711 0.000 -226.951 -195.711 16.739 -223.787 -248.276 16.739</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-226.951 -195.711 0.000 -235.646 -196.112 0.000 -235.646 -196.112 16.739 -226.951 -195.711 16.739</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-232.883 -249.066 16.739 -223.787 -248.276 16.739 -226.951 -195.711 16.739 -235.646 -196.112 16.739</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-233.737 -256.569 0.000 -232.160 -307.153 0.000 -232.160 -307.153 14.130 -233.737 -256.569 14.130</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-232.160 -307.153 0.000 -223.072 -305.973 0.000 -223.072 -305.973 14.130 -232.160 -307.153 14.130</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-223.072 -305.973 0.000 -225.434 -256.569 0.000 -225.434 -256.569 14.130 -223.072 -305.973 14.130</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-225.434 -256.569 0.000 -233.737 -256.569 0.000 -233.737 -256.569 14.130 -225.434 -256.569 14.130</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-232.160 -307.153 14.130 -223.072 -305.973 14.130 -225.434 -256.569 14.130 -233.737 -256.569 14.130</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-232.740 -315.847 0.000 -232.366 -366.597 0.000 -232.366 -366.597 12.248 -232.740 -315.847 12.248</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-232.366 -366.597 0.000 -223.262 -366.687 0.000 -223.262 -366.687 12.248 -232.366 -366.597 12.248</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-223.262 -366.687 0.000 -223.653 -315.847 0.000 -223.653 -315.847 12.248 -223.262 -366.687 12.248</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-223.653 -315.847 0.000 -232.740 -315.847 0.000 -232.740 -315.847 12.248 -223.653 -315.847 12.248</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-232.366 -366.597 12.248 -223.262 -366.687 12.248 -223.653 -315.847 12.248 -232.740 -315.847 12.248</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-56.911 -176.523 0.000 -55.648 -188.879 0.000 -55.648 -188.879 15.599 -56.911 -176.523 15.599</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-55.648 -188.879 0.000 34.065 -186.664 0.000 34.065 -186.664 15.599 -55.648 -188.879 15.599</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>34.065 -186.664 0.000 32.478 -173.039 0.000 32.478 -173.039 15.599 34.065 -186.664 15.599</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>32.478 -173.039 0.000 -56.911 -176.523 0.000 -56.911 -176.523 15.599 32.478 -173.039 15.599</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-55.648 -188.879 15.599 34.065 -186.664 15.599 32.478 -173.039 15.599 -56.911 -176.523 15.599</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-49.940 -217.733 0.000 -48.993 -231.359 0.000 -48.993 -231.359 19.236 -49.940 -217.733 19.236</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-48.993 -231.359 0.000 38.503 -227.875 0.000 38.503 -227.875 19.236 -48.993 -231.359 19.236</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>38.503 -227.875 0.000 38.187 -214.249 0.000 38.187 -214.249 19.236 38.503 -227.875 19.236</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>38.187 -214.249 0.000 -49.940 -217.733 0.000 -49.940 -217.733 19.236 38.187 -214.249 19.236</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-48.993 -231.359 19.236 38.503 -227.875 19.236 38.187 -214.249 19.236 -49.940 -217.733 19.236</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-45.819 -269.408 0.000 -45.819 -295.713 0.000 -45.819 -295.713 16.656 -45.819 -269.408 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-45.819 -295.713 0.000 -30.921 -294.766 0.000 -30.921 -294.766 16.656 -45.819 -295.713 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-30.921 -294.766 0.000 -30.920 -274.796 0.000 -30.920 -274.796 16.656 -30.921 -294.766 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-30.920 -274.796 0.000 26.779 -273.527 0.000 26.779 -273.527 16.656 -30.920 -274.796 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>26.779 -273.527 0.000 27.726 -293.497 0.000 27.726 -293.497 16.656 26.779 -273.527 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>27.726 -293.497 0.000 43.580 -294.132 0.000 43.580 -294.132 16.656 27.726 -293.497 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>43.580 -294.132 0.000 40.721 -267.181 0.000 40.721 -267.181 16.656 43.580 -294.132 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>40.721 -267.181 0.000 28.357 -266.870 0.000 28.357 -266.870 16.656 40.721 -267.181 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>28.357 -266.870 0.000 28.041 -255.137 0.000 28.041 -255.137 16.656 28.357 -266.870 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>28.041 -255.137 0.000 -34.410 -257.040 0.000 -34.410 -257.040 16.656 28.041 -255.137 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-34.410 -257.040 0.000 -34.726 -269.085 0.000 -34.726 -269.085 16.656 -34.410 -257.040 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-34.726 -269.085 0.000 -45.819 -269.408 0.000 -45.819 -269.408 16.656 -34.726 -269.085 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-45.819 -295.713 16.656 -30.921 -294.766 16.656 -30.920 -274.796 16.656 26.779 -273.527 16.656 27.726 -293.497 16.656 43.580 -294.132 16.656 40.721 -267.181 16.656 28.357 -266.870 16.656 28.041 -255.137 16.656 -34.410 -257.040 16.656 -34.726 -269.085 16.656 -45.819 -269.408 16.656</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-43.600 -310.295 0.000 -41.339 -336.556 0.000 -41.339 -336.556 16.115 -43.600 -310.295 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-41.339 -336.556 0.000 -30.810 -334.719 0.000 -30.810 -334.719 16.115 -41.339 -336.556 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-30.810 -334.719 0.000 -29.897 -342.044 0.000 -29.897 -342.044 16.115 -30.810 -334.719 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-29.897 -342.044 0.000 27.777 -340.218 0.000 27.777 -340.218 16.115 -29.897 -342.044 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>27.777 -340.218 0.000 30.900 -335.654 0.000 30.900 -335.654 16.115 27.777 -340.218 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>30.900 -335.654 0.000 42.940 -335.977 0.000 42.940 -335.977 16.115 30.900 -335.654 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>42.940 -335.977 0.000 41.677 -308.080 0.000 41.677 -308.080 16.115 42.940 -335.977 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>41.677 -308.080 0.000 28.357 -307.446 0.000 28.357 -307.446 16.115 41.677 -308.080 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>28.357 -307.446 0.000 28.997 -326.147 0.000 28.997 -326.147 16.115 28.357 -307.446 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>28.997 -326.147 0.000 -29.334 -328.685 0.000 -29.334 -328.685 16.115 28.997 -326.147 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-29.334 -328.685 0.000 -29.973 -309.661 0.000 -29.973 -309.661 16.115 -29.334 -328.685 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-29.973 -309.661 0.000 -43.600 -310.295 0.000 -43.600 -310.295 16.115 -29.973 -309.661 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-41.339 -336.556 16.115 -30.810 -334.719 16.115 -29.897 -342.044 16.115 27.777 -340.218 16.115 30.900 -335.654 16.115 42.940 -335.977 16.115 41.677 -308.080 16.115 28.357 -307.446 16.115 28.997 -326.147 16.115 -29.334 -328.685 16.115 -29.973 -309.661 16.115 -43.600 -310.295 16.115</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>115.136 312.727 0.000 46.093 310.311 0.000 46.093 310.311 36.513 115.136 312.727 36.513</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>46.093 310.311 0.000 48.534 240.569 0.000 48.534 240.569 36.513 46.093 310.311 36.513</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>48.534 240.569 0.000 75.462 241.504 0.000 75.462 241.504 36.513 48.534 240.569 36.513</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>75.462 241.504 0.000 74.258 276.125 0.000 74.258 276.125 36.513 75.462 241.504 36.513</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>74.258 276.125 0.000 116.356 277.595 0.000 116.356 277.595 36.513 74.258 276.125 36.513</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>116.356 277.595 0.000 115.136 312.727 0.000 115.136 312.727 36.513 116.356 277.595 36.513</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>46.093 310.311 36.513 48.534 240.569 36.513 75.462 241.504 36.513 74.258 276.125 36.513 116.356 277.595 36.513 115.136 312.727 36.513</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-202.720 53.143 0.000 -218.352 52.464 0.000 -218.352 52.464 18.461 -202.720 53.143 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-218.352 52.464 0.000 -216.578 11.588 0.000 -216.578 11.588 18.461 -218.352 52.464 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-216.578 11.588 0.000 -199.300 12.333 0.000 -199.300 12.333 18.461 -216.578 11.588 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-199.300 12.333 0.000 -200.050 29.666 0.000 -200.050 29.666 18.461 -199.300 12.333 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-200.050 29.666 0.000 -191.731 30.022 0.000 -191.731 30.022 18.461 -200.050 29.666 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-191.731 30.022 0.000 -191.356 21.495 0.000 -191.356 21.495 18.461 -191.731 30.022 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-191.356 21.495 0.000 -118.599 24.655 0.000 -118.599 24.655 18.461 -191.356 21.495 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-118.599 24.655 0.000 -119.017 34.306 0.000 -119.017 34.306 18.461 -118.599 24.655 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-119.017 34.306 0.000 -108.642 34.751 0.000 -108.642 34.751 18.461 -119.017 34.306 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-108.642 34.751 0.000 -107.831 16.105 0.000 -107.831 16.105 18.461 -108.642 34.751 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-107.831 16.105 0.000 -90.067 16.884 0.000 -90.067 16.884 18.461 -107.831 16.105 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-90.067 16.884 0.000 -91.875 58.618 0.000 -91.875 58.618 18.461 -90.067 16.884 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-91.875 58.618 0.000 -111.935 57.750 0.000 -111.935 57.750 18.461 -91.875 58.618 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-111.935 57.750 0.000 -111.380 45.093 0.000 -111.380 45.093 18.461 -111.935 57.750 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-111.380 45.093 0.000 -125.092 44.503 0.000 -125.092 44.503 18.461 -111.380 45.093 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-125.092 44.503 0.000 -124.657 34.495 0.000 -124.657 34.495 18.461 -125.092 44.503 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-124.657 34.495 0.000 -188.975 31.703 0.000 -188.975 31.703 18.461 -124.657 34.495 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-188.975 31.703 0.000 -189.384 41.220 0.000 -189.384 41.220 18.461 -188.975 31.703 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-189.384 41.220 0.000 -202.175 40.664 0.000 -202.175 40.664 18.461 -189.384 41.220 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-202.175 40.664 0.000 -202.720 53.143 0.000 -202.720 53.143 18.461 -202.175 40.664 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-218.352 52.464 18.461 -216.578 11.588 18.461 -199.300 12.333 18.461 -200.050 29.666 18.461 -191.731 30.022 18.461 -191.356 21.495 18.461 -118.599 24.655 18.461 -119.017 34.306 18.461 -108.642 34.751 18.461 -107.831 16.105 18.461 -90.067 16.884 18.461 -91.875 58.618 18.461 -111.935 57.750 18.461 -111.380 45.093 18.461 -125.092 44.503 18.461 -124.657 34.495 18.461 -188.975 31.703 18.461 -189.384 41.220 18.461 -202.175 40.664 18.461 -202.720 53.143 18.461</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-247.450 -13.558 0.000 -247.109 -36.101 0.000 -247.109 -36.101 4.509 -247.450 -13.558 4.509</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-247.109 -36.101 0.000 -239.967 -35.989 0.000 -239.967 -35.989 4.509 -247.109 -36.101 4.509</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-239.967 -35.989 0.000 -239.856 -13.447 0.000 -239.856 -13.447 4.509 -239.967 -35.989 4.509</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-239.856 -13.447 0.000 -247.450 -13.558 0.000 -247.450 -13.558 4.509 -239.856 -13.447 4.509</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-247.109 -36.101 4.509 -239.967 -35.989 4.509 -239.856 -13.447 4.509 -247.450 -13.558 4.509</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-247.516 58.944 0.000 -244.855 6.023 0.000 -244.855 6.023 12.277 -247.516 58.944 12.277</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-244.855 6.023 0.000 -232.594 6.145 0.000 -232.594 6.145 12.277 -244.855 6.023 12.277</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-232.594 6.145 0.000 -235.161 59.589 0.000 -235.161 59.589 12.277 -232.594 6.145 12.277</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-235.161 59.589 0.000 -247.516 58.944 0.000 -247.516 58.944 12.277 -235.161 59.589 12.277</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-244.855 6.023 12.277 -232.594 6.145 12.277 -235.161 59.589 12.277 -247.516 58.944 12.277</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>11.138 -7.930 0.000 11.368 -14.798 0.000 11.368 -14.798 15.623 11.138 -7.930 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>11.368 -14.798 0.000 4.619 -14.909 0.000 4.619 -14.909 15.623 11.368 -14.798 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>4.619 -14.909 0.000 5.873 -52.101 0.000 5.873 -52.101 15.623 4.619 -14.909 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>5.873 -52.101 0.000 12.511 -51.756 0.000 12.511 -51.756 15.623 5.873 -52.101 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>12.511 -51.756 0.000 12.127 -64.602 0.000 12.127 -64.602 15.623 12.511 -51.756 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>12.127 -64.602 0.000 32.000 -64.602 0.000 32.000 -64.602 15.623 12.127 -64.602 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>32.000 -64.602 0.000 32.307 -50.498 0.000 32.307 -50.498 15.623 32.000 -64.602 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>32.307 -50.498 0.000 38.374 -50.732 0.000 38.374 -50.732 15.623 32.307 -50.498 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>38.374 -50.732 0.000 37.341 -13.885 0.000 37.341 -13.885 15.623 38.374 -50.732 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>37.341 -13.885 0.000 30.361 -13.885 0.000 30.361 -13.885 15.623 37.341 -13.885 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>30.361 -13.885 0.000 30.250 -7.473 0.000 30.250 -7.473 15.623 30.361 -13.885 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>30.250 -7.473 0.000 11.138 -7.930 0.000 11.138 -7.930 15.623 30.250 -7.473 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>11.368 -14.798 15.623 4.619 -14.909 15.623 5.873 -52.101 15.623 12.511 -51.756 15.623 12.127 -64.602 15.623 32.000 -64.602 15.623 32.307 -50.498 15.623 38.374 -50.732 15.623 37.341 -13.885 15.623 30.361 -13.885 15.623 30.250 -7.473 15.623 11.138 -7.930 15.623</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-31.942 171.885 0.000 -28.743 94.996 0.000 -28.743 94.996 16.350 -31.942 171.885 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-28.743 94.996 0.000 28.049 96.956 0.000 28.049 96.956 16.350 -28.743 94.996 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>28.049 96.956 0.000 27.537 112.084 0.000 27.537 112.084 16.350 28.049 96.956 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>27.537 112.084 0.000 7.588 111.438 0.000 7.588 111.438 16.350 27.537 112.084 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>7.588 111.438 0.000 7.102 126.622 0.000 7.102 126.622 16.350 7.588 111.438 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>7.102 126.622 0.000 32.869 127.268 0.000 32.869 127.268 16.350 7.102 126.622 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>32.869 127.268 0.000 32.204 142.508 0.000 32.204 142.508 16.350 32.869 127.268 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>32.204 142.508 0.000 5.540 141.962 0.000 5.540 141.962 16.350 32.204 142.508 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>5.540 141.962 0.000 4.857 158.493 0.000 4.857 158.493 16.350 5.540 141.962 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>4.857 158.493 0.000 25.745 158.950 0.000 25.745 158.950 16.350 4.857 158.493 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>25.745 158.950 0.000 25.267 174.067 0.000 25.267 174.067 16.350 25.745 158.950 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>25.267 174.067 0.000 -31.942 171.885 0.000 -31.942 171.885 16.350 25.267 174.067 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-28.743 94.996 16.350 28.049 96.956 16.350 27.537 112.084 16.350 7.588 111.438 16.350 7.102 126.622 16.350 32.869 127.268 16.350 32.204 142.508 16.350 5.540 141.962 16.350 4.857 158.493 16.350 25.745 158.950 16.350 25.267 174.067 16.350 -31.942 171.885 16.350</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-61.943 19.066 0.000 -50.041 19.522 0.000 -50.041 19.522 16.989 -61.943 19.066 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-50.041 19.522 0.000 -50.271 23.875 0.000 -50.271 23.875 16.989 -50.041 19.522 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-50.271 23.875 0.000 22.733 26.390 0.000 22.733 26.390 16.989 -50.271 23.875 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>22.733 26.390 0.000 22.964 22.271 0.000 22.964 22.271 16.989 22.733 26.390 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>22.964 22.271 0.000 34.406 22.728 0.000 34.406 22.728 16.989 22.964 22.271 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>34.406 22.728 0.000 33.493 50.424 0.000 33.493 50.424 16.989 34.406 22.728 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>33.493 50.424 0.000 22.272 49.734 0.000 22.272 49.734 16.989 33.493 50.424 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>22.272 49.734 0.000 22.503 39.660 0.000 22.503 39.660 16.989 22.272 49.734 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>22.503 39.660 0.000 -5.450 40.116 0.000 -5.450 40.116 16.989 22.503 39.660 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-5.450 40.116 0.000 -50.962 37.144 0.000 -50.962 37.144 16.989 -5.450 40.116 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-50.962 37.144 0.000 -51.184 43.099 0.000 -51.184 43.099 16.989 -50.962 37.144 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-51.184 43.099 0.000 -62.626 42.643 0.000 -62.626 42.643 16.989 -51.184 43.099 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-62.626 42.643 0.000 -61.943 19.066 0.000 -61.943 19.066 16.989 -62.626 42.643 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-50.041 19.522 16.989 -50.271 23.875 16.989 22.733 26.390 16.989 22.964 22.271 16.989 34.406 22.728 16.989 33.493 50.424 16.989 22.272 49.734 16.989 22.503 39.660 16.989 -5.450 40.116 16.989 -50.962 37.144 16.989 -51.184 43.099 16.989 -62.626 42.643 16.989 -61.943 19.066 16.989</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-22.685 61.868 0.000 -21.926 38.658 0.000 -21.926 38.658 12.898 -22.685 61.868 12.898</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-21.926 38.658 0.000 -5.450 40.116 0.000 -5.450 40.116 12.898 -21.926 38.658 12.898</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-5.450 40.116 0.000 -6.661 62.324 0.000 -6.661 62.324 12.898 -5.450 40.116 12.898</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-6.661 62.324 0.000 -22.685 61.868 0.000 -22.685 61.868 12.898 -6.661 62.324 12.898</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-21.926 38.658 12.898 -5.450 40.116 12.898 -6.661 62.324 12.898 -22.685 61.868 12.898</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-63.863 62.046 0.000 -64.093 53.797 0.000 -64.093 53.797 16.754 -63.863 62.046 16.754</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-64.093 53.797 0.000 -27.933 55.178 0.000 -27.933 55.178 16.754 -64.093 53.797 16.754</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-27.933 55.178 0.000 -28.163 63.415 0.000 -28.163 63.415 16.754 -27.933 55.178 16.754</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-28.163 63.415 0.000 -63.863 62.046 0.000 -63.863 62.046 16.754 -28.163 63.415 16.754</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-64.093 53.797 16.754 -27.933 55.178 16.754 -28.163 63.415 16.754 -63.863 62.046 16.754</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-64.093 53.797 0.000 -63.906 49.244 0.000 -63.906 49.244 17.085 -64.093 53.797 17.085</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-63.906 49.244 0.000 -53.249 49.734 0.000 -53.249 49.734 17.085 -63.906 49.244 17.085</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-53.249 49.734 0.000 -52.762 44.725 0.000 -52.762 44.725 17.085 -53.249 49.734 17.085</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-52.762 44.725 0.000 -47.754 44.725 0.000 -47.754 44.725 17.085 -52.762 44.725 17.085</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-47.754 44.725 0.000 -47.916 47.474 0.000 -47.916 47.474 17.085 -47.754 44.725 17.085</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-47.916 47.474 0.000 -27.557 48.276 0.000 -27.557 48.276 17.085 -47.916 47.474 17.085</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-27.557 48.276 0.000 -27.933 55.178 0.000 -27.933 55.178 17.085 -27.557 48.276 17.085</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-27.933 55.178 0.000 -64.093 53.797 0.000 -64.093 53.797 17.085 -27.933 55.178 17.085</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-63.906 49.244 17.085 -53.249 49.734 17.085 -52.762 44.725 17.085 -47.754 44.725 17.085 -47.916 47.474 17.085 -27.557 48.276 17.085 -27.933 55.178 17.085 -64.093 53.797 17.085</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>48.255 -103.408 0.000 50.081 -142.782 0.000 50.081 -142.782 15.873 48.255 -103.408 15.873</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>50.081 -142.782 0.000 94.024 -141.401 0.000 94.024 -141.401 15.873 50.081 -142.782 15.873</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>94.024 -141.401 0.000 93.742 -101.916 0.000 93.742 -101.916 15.873 94.024 -141.401 15.873</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>93.742 -101.916 0.000 48.255 -103.408 0.000 48.255 -103.408 15.873 93.742 -101.916 15.873</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>50.081 -142.782 15.873 94.024 -141.401 15.873 93.742 -101.916 15.873 48.255 -103.408 15.873</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>233.624 -318.229 0.000 233.848 -371.072 0.000 233.848 -371.072 16.576 233.624 -318.229 16.576</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>233.848 -371.072 0.000 252.825 -370.983 0.000 252.825 -370.983 16.576 233.848 -371.072 16.576</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>252.825 -370.983 0.000 252.602 -318.139 0.000 252.602 -318.139 16.576 252.825 -370.983 16.576</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>252.602 -318.139 0.000 233.624 -318.229 0.000 233.624 -318.229 16.576 252.602 -318.139 16.576</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>233.848 -371.072 16.576 252.825 -370.983 16.576 252.602 -318.139 16.576 233.624 -318.229 16.576</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-226.315 260.387 0.000 -225.667 242.943 0.000 -225.667 242.943 16.943 -226.315 260.387 16.943</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-225.667 242.943 0.000 -175.267 245.848 0.000 -175.267 245.848 16.943 -225.667 242.943 16.943</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-175.267 245.848 0.000 -175.915 262.657 0.000 -175.915 262.657 16.943 -175.267 245.848 16.943</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-175.915 262.657 0.000 -226.315 260.387 0.000 -226.315 260.387 16.943 -175.915 262.657 16.943</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-225.667 242.943 16.943 -175.267 245.848 16.943 -175.915 262.657 16.943 -226.315 260.387 16.943</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-155.881 273.644 0.000 -154.261 242.953 0.000 -154.261 242.953 15.317 -155.881 273.644 15.317</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-154.261 242.953 0.000 -105.797 243.920 0.000 -105.797 243.920 15.317 -154.261 242.953 15.317</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-105.797 243.920 0.000 -107.734 276.225 0.000 -107.734 276.225 15.317 -105.797 243.920 15.317</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-107.734 276.225 0.000 -155.881 273.644 0.000 -155.881 273.644 15.317 -107.734 276.225 15.317</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-154.261 242.953 15.317 -105.797 243.920 15.317 -107.734 276.225 15.317 -155.881 273.644 15.317</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-229.752 304.314 0.000 -229.292 291.501 0.000 -229.292 291.501 15.401 -229.752 304.314 15.401</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-229.292 291.501 0.000 -186.554 290.910 0.000 -186.554 290.910 15.401 -229.292 291.501 15.401</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-186.554 290.910 0.000 -187.450 305.170 0.000 -187.450 305.170 15.401 -186.554 290.910 15.401</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-187.450 305.170 0.000 -229.752 304.314 0.000 -229.752 304.314 15.401 -187.450 305.170 15.401</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-229.292 291.501 15.401 -186.554 290.910 15.401 -187.450 305.170 15.401 -229.752 304.314 15.401</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-229.154 345.458 0.000 -231.117 332.511 0.000 -231.117 332.511 16.594 -229.154 345.458 16.594</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-231.117 332.511 0.000 -172.407 334.936 0.000 -172.407 334.936 16.594 -231.117 332.511 16.594</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-172.407 334.936 0.000 -174.309 346.247 0.000 -174.309 346.247 16.594 -172.407 334.936 16.594</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-174.309 346.247 0.000 -229.154 345.458 0.000 -229.154 345.458 16.594 -174.309 346.247 16.594</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-231.117 332.511 16.594 -172.407 334.936 16.594 -174.309 346.247 16.594 -229.154 345.458 16.594</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-161.442 359.538 0.000 -159.822 299.559 0.000 -159.822 299.559 16.263 -161.442 359.538 16.263</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-159.822 299.559 0.000 -94.986 301.506 0.000 -94.986 301.506 16.263 -159.822 299.559 16.263</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-94.986 301.506 0.000 -96.931 362.130 0.000 -96.931 362.130 16.263 -94.986 301.506 16.263</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-96.931 362.130 0.000 -161.442 359.538 0.000 -161.442 359.538 16.263 -96.931 362.130 16.263</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-159.822 299.559 16.263 -94.986 301.506 16.263 -96.931 362.130 16.263 -161.442 359.538 16.263</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-16.558 364.256 0.000 -14.963 311.947 0.000 -14.963 311.947 16.529 -16.558 364.256 16.529</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-14.963 311.947 0.000 26.179 312.871 0.000 26.179 312.871 16.529 -14.963 311.947 16.529</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>26.179 312.871 0.000 25.591 328.589 0.000 25.591 328.589 16.529 26.179 312.871 16.529</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>25.591 328.589 0.000 1.299 326.797 0.000 1.299 326.797 16.529 25.591 328.589 16.529</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>1.299 326.797 0.000 0.651 351.109 0.000 0.651 351.109 16.529 1.299 326.797 16.529</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.651 351.109 0.000 37.996 353.336 0.000 37.996 353.336 16.529 0.651 351.109 16.529</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>37.996 353.336 0.000 37.092 366.983 0.000 37.092 366.983 16.529 37.996 353.336 16.529</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>37.092 366.983 0.000 -16.558 364.256 0.000 -16.558 364.256 16.529 37.092 366.983 16.529</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-14.963 311.947 16.529 26.179 312.871 16.529 25.591 328.589 16.529 1.299 326.797 16.529 0.651 351.109 16.529 37.996 353.336 16.529 37.092 366.983 16.529 -16.558 364.256 16.529</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-78.391 296.986 0.000 -77.027 247.883 0.000 -77.027 247.883 7.870 -78.391 296.986 7.870</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-77.027 247.883 0.000 -53.844 248.785 0.000 -53.844 248.785 7.870 -77.027 247.883 7.870</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-53.844 248.785 0.000 -54.749 297.888 0.000 -54.749 297.888 7.870 -53.844 248.785 7.870</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-54.749 297.888 0.000 -78.391 296.986 0.000 -78.391 296.986 7.870 -54.749 297.888 7.870</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-77.027 247.883 7.870 -53.844 248.785 7.870 -54.749 297.888 7.870 -78.391 296.986 7.870</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-84.790 344.219 0.000 -83.988 312.070 0.000 -83.988 312.070 15.777 -84.790 344.219 15.777</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-83.988 312.070 0.000 -32.164 313.661 0.000 -32.164 313.661 15.777 -83.988 312.070 15.777</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-32.164 313.661 0.000 -33.128 345.332 0.000 -33.128 345.332 15.777 -32.164 313.661 15.777</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-33.128 345.332 0.000 -84.790 344.219 0.000 -84.790 344.219 15.777 -33.128 345.332 15.777</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-83.988 312.070 15.777 -32.164 313.661 15.777 -33.128 345.332 15.777 -84.790 344.219 15.777</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-49.407 300.092 0.000 -48.077 258.202 0.000 -48.077 258.202 12.910 -49.407 300.092 12.910</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-48.077 258.202 0.000 34.635 262.399 0.000 34.635 262.399 12.910 -48.077 258.202 12.910</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>34.635 262.399 0.000 32.638 302.463 0.000 32.638 302.463 12.910 34.635 262.399 12.910</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>32.638 302.463 0.000 11.239 301.817 0.000 11.239 301.817 12.910 32.638 302.463 12.910</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>11.239 301.817 0.000 10.728 274.499 0.000 10.728 274.499 12.910 11.239 301.817 12.910</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>10.728 274.499 0.000 -29.894 273.063 0.000 -29.894 273.063 12.910 10.728 274.499 12.910</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-29.894 273.063 0.000 -31.174 300.737 0.000 -31.174 300.737 12.910 -29.894 273.063 12.910</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-31.174 300.737 0.000 -49.407 300.092 0.000 -49.407 300.092 12.910 -31.174 300.737 12.910</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-48.077 258.202 12.910 34.635 262.399 12.910 32.638 302.463 12.910 11.239 301.817 12.910 10.728 274.499 12.910 -29.894 273.063 12.910 -31.174 300.737 12.910 -49.407 300.092 12.910</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-257.438 336.586 0.000 -256.526 298.593 0.000 -256.526 298.593 12.965 -257.438 336.586 12.965</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-256.526 298.593 0.000 -231.126 299.282 0.000 -231.126 299.282 12.965 -256.526 298.593 12.965</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-231.126 299.282 0.000 -231.117 332.511 0.000 -231.117 332.511 12.965 -231.126 299.282 12.965</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-231.117 332.511 0.000 -257.438 336.586 0.000 -257.438 336.586 12.965 -231.117 332.511 12.965</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-256.526 298.593 12.965 -231.126 299.282 12.965 -231.117 332.511 12.965 -257.438 336.586 12.965</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-258.129 355.344 0.000 -257.438 336.586 0.000 -257.438 336.586 16.056 -258.129 355.344 16.056</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-257.438 336.586 0.000 -231.117 332.511 0.000 -231.117 332.511 16.056 -257.438 336.586 16.056</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-231.117 332.511 0.000 -233.872 355.799 0.000 -233.872 355.799 16.056 -231.117 332.511 16.056</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-233.872 355.799 0.000 -258.129 355.344 0.000 -258.129 355.344 16.056 -233.872 355.799 16.056</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-257.438 336.586 16.056 -231.117 332.511 16.056 -233.872 355.799 16.056 -258.129 355.344 16.056</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>55.812 220.710 0.000 57.647 162.812 0.000 57.647 162.812 13.963 55.812 220.710 13.963</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>57.647 162.812 0.000 119.891 165.095 0.000 119.891 165.095 13.963 57.647 162.812 13.963</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>119.891 165.095 0.000 117.142 223.004 0.000 117.142 223.004 13.963 119.891 165.095 13.963</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>117.142 223.004 0.000 55.812 220.710 0.000 55.812 220.710 13.963 117.142 223.004 13.963</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>57.647 162.812 13.963 119.891 165.095 13.963 117.142 223.004 13.963 55.812 220.710 13.963</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>145.707 272.775 0.000 146.305 251.023 0.000 146.305 251.023 17.503 145.707 272.775 17.503</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>146.305 251.023 0.000 171.552 251.725 0.000 171.552 251.725 17.503 146.305 251.023 17.503</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>171.552 251.725 0.000 170.954 273.477 0.000 170.954 273.477 17.503 171.552 251.725 17.503</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>170.954 273.477 0.000 145.707 272.775 0.000 145.707 272.775 17.503 170.954 273.477 17.503</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>146.305 251.023 17.503 171.552 251.725 17.503 170.954 273.477 17.503 145.707 272.775 17.503</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>149.455 191.167 0.000 149.387 170.528 0.000 149.387 170.528 16.966 149.455 191.167 16.966</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>149.387 170.528 0.000 175.265 170.440 0.000 175.265 170.440 16.966 149.387 170.528 16.966</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>175.265 170.440 0.000 175.333 191.078 0.000 175.333 191.078 16.966 175.265 170.440 16.966</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>175.333 191.078 0.000 149.455 191.167 0.000 149.455 191.167 16.966 175.333 191.078 16.966</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>149.387 170.528 16.966 175.265 170.440 16.966 175.333 191.078 16.966 149.455 191.167 16.966</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>221.230 153.843 0.000 203.465 153.197 0.000 203.465 153.197 14.801 221.230 153.843 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>203.465 153.197 0.000 203.627 150.125 0.000 203.627 150.125 14.801 203.465 153.197 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>203.627 150.125 0.000 199.745 152.384 0.000 199.745 152.384 14.801 203.627 150.125 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>199.745 152.384 0.000 197.970 148.677 0.000 197.970 148.677 14.801 199.745 152.384 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>197.970 148.677 0.000 204.430 144.470 0.000 204.430 144.470 14.801 197.970 148.677 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>204.430 144.470 0.000 203.141 140.918 0.000 203.141 140.918 14.801 204.430 144.470 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>203.141 140.918 0.000 198.457 142.855 0.000 198.457 142.855 14.801 203.141 140.918 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>198.457 142.855 0.000 196.196 137.846 0.000 196.196 137.846 14.801 198.457 142.855 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>196.196 137.846 0.000 203.304 134.451 0.000 203.304 134.451 14.801 196.196 137.846 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>203.304 134.451 0.000 202.493 131.067 0.000 202.493 131.067 14.801 203.304 134.451 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>202.493 131.067 0.000 198.935 133.159 0.000 198.935 133.159 14.801 202.493 131.067 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>198.935 133.159 0.000 196.196 128.640 0.000 196.196 128.640 14.801 198.935 133.159 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>196.196 128.640 0.000 202.818 124.599 0.000 202.818 124.599 14.801 196.196 128.640 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>202.818 124.599 0.000 202.656 117.975 0.000 202.656 117.975 14.801 202.818 124.599 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>202.656 117.975 0.000 200.232 118.465 0.000 200.232 118.465 14.801 202.656 117.975 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>200.232 118.465 0.000 201.043 113.289 0.000 201.043 113.289 14.801 200.232 118.465 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>201.043 113.289 0.000 226.239 113.935 0.000 226.239 113.935 14.801 201.043 113.289 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>226.239 113.935 0.000 225.275 125.568 0.000 225.275 125.568 14.801 226.239 113.935 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>225.275 125.568 0.000 230.283 129.609 0.000 230.283 129.609 14.801 225.275 125.568 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>230.283 129.609 0.000 227.860 134.129 0.000 227.860 134.129 14.801 230.283 129.609 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>227.860 134.129 0.000 222.203 130.900 0.000 222.203 130.900 14.801 227.860 134.129 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>222.203 130.900 0.000 222.365 135.431 0.000 222.365 135.431 14.801 222.203 130.900 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>222.365 135.431 0.000 229.634 139.951 0.000 229.634 139.951 14.801 222.365 135.431 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>229.634 139.951 0.000 227.049 143.992 0.000 227.049 143.992 14.801 229.634 139.951 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>227.049 143.992 0.000 222.851 142.210 0.000 222.851 142.210 14.801 227.049 143.992 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>222.851 142.210 0.000 218.807 144.960 0.000 218.807 144.960 14.801 222.851 142.210 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>218.807 144.960 0.000 227.859 149.480 0.000 227.859 149.480 14.801 218.807 144.960 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>227.859 149.480 0.000 225.112 154.333 0.000 225.112 154.333 14.801 227.859 149.480 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>225.112 154.333 0.000 221.392 151.906 0.000 221.392 151.906 14.801 225.112 154.333 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>221.392 151.906 0.000 221.230 153.843 0.000 221.230 153.843 14.801 221.392 151.906 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>203.465 153.197 14.801 203.627 150.125 14.801 199.745 152.384 14.801 197.970 148.677 14.801 204.430 144.470 14.801 203.141 140.918 14.801 198.457 142.855 14.801 196.196 137.846 14.801 203.304 134.451 14.801 202.493 131.067 14.801 198.935 133.159 14.801 196.196 128.640 14.801 202.818 124.599 14.801 202.656 117.975 14.801 200.232 118.465 14.801 201.043 113.289 14.801 226.239 113.935 14.801 225.275 125.568 14.801 230.283 129.609 14.801 227.860 134.129 14.801 222.203 130.900 14.801 222.365 135.431 14.801 229.634 139.951 14.801 227.049 143.992 14.801 222.851 142.210 14.801 218.807 144.960 14.801 227.859 149.480 14.801 225.112 154.333 14.801 221.392 151.906 14.801 221.230 153.843 14.801</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>192.438 307.608 0.000 192.899 292.190 0.000 192.899 292.190 16.660 192.438 307.608 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>192.899 292.190 0.000 202.045 292.458 0.000 202.045 292.458 16.660 192.899 292.190 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>202.045 292.458 0.000 201.874 297.979 0.000 201.874 297.979 16.660 202.045 292.458 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>201.874 297.979 0.000 219.289 298.503 0.000 219.289 298.503 16.660 201.874 297.979 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>219.289 298.503 0.000 218.836 313.431 0.000 218.836 313.431 16.660 219.289 298.503 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>218.836 313.431 0.000 208.247 313.108 0.000 208.247 313.108 16.660 218.836 313.431 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>208.247 313.108 0.000 208.341 309.924 0.000 208.341 309.924 16.660 208.247 313.108 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>208.341 309.924 0.000 201.456 309.712 0.000 201.456 309.712 16.660 208.341 309.924 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>201.456 309.712 0.000 201.516 307.875 0.000 201.516 307.875 16.660 201.456 309.712 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>201.516 307.875 0.000 192.438 307.608 0.000 192.438 307.608 16.660 201.516 307.875 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>192.899 292.190 16.660 202.045 292.458 16.660 201.874 297.979 16.660 219.289 298.503 16.660 218.836 313.431 16.660 208.247 313.108 16.660 208.341 309.924 16.660 201.456 309.712 16.660 201.516 307.875 16.660 192.438 307.608 16.660</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>194.385 236.486 0.000 194.530 221.269 0.000 194.530 221.269 20.757 194.385 236.486 20.757</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>194.530 221.269 0.000 204.982 221.369 0.000 204.982 221.369 20.757 194.530 221.269 20.757</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>204.982 221.369 0.000 204.931 226.445 0.000 204.931 226.445 20.757 204.982 221.369 20.757</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>204.931 226.445 0.000 223.326 226.624 0.000 223.326 226.624 20.757 204.931 226.445 20.757</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>223.326 226.624 0.000 223.164 242.643 0.000 223.164 242.643 20.757 223.326 226.624 20.757</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>223.164 242.643 0.000 211.142 242.520 0.000 211.142 242.520 20.757 223.164 242.643 20.757</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>211.142 242.520 0.000 211.193 236.653 0.000 211.193 236.653 20.757 211.142 242.520 20.757</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>211.193 236.653 0.000 194.385 236.486 0.000 194.385 236.486 20.757 211.193 236.653 20.757</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>194.530 221.269 20.757 204.982 221.369 20.757 204.931 226.445 20.757 223.326 226.624 20.757 223.164 242.643 20.757 211.142 242.520 20.757 211.193 236.653 20.757 194.385 236.486 20.757</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>59.442 -270.165 0.000 60.407 -290.781 0.000 60.407 -290.781 20.931 59.442 -270.165 20.931</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>60.407 -290.781 0.000 107.431 -289.812 0.000 107.431 -289.812 20.931 60.407 -290.781 20.931</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>107.431 -289.812 0.000 107.107 -268.873 0.000 107.107 -268.873 20.931 107.431 -289.812 20.931</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>107.107 -268.873 0.000 59.442 -270.165 0.000 59.442 -270.165 20.931 107.107 -268.873 20.931</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>60.407 -290.781 20.931 107.431 -289.812 20.931 107.107 -268.873 20.931 59.442 -270.165 20.931</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>62.941 -318.789 0.000 63.266 -333.283 0.000 63.266 -333.283 17.413 62.941 -318.789 17.413</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>63.266 -333.283 0.000 90.315 -332.314 0.000 90.315 -332.314 17.413 63.266 -333.283 17.413</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>90.315 -332.314 0.000 89.675 -317.820 0.000 89.675 -317.820 17.413 90.315 -332.314 17.413</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>89.675 -317.820 0.000 62.941 -318.789 0.000 62.941 -318.789 17.413 89.675 -317.820 17.413</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>63.266 -333.283 17.413 90.315 -332.314 17.413 89.675 -317.820 17.413 62.941 -318.789 17.413</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>92.755 -306.288 0.000 92.755 -316.585 0.000 92.755 -316.585 13.748 92.755 -306.288 13.748</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>92.755 -316.585 0.000 147.050 -316.907 0.000 147.050 -316.907 13.748 92.755 -316.585 13.748</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>147.050 -316.907 0.000 146.538 -306.287 0.000 146.538 -306.287 13.748 147.050 -316.907 13.748</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>146.538 -306.287 0.000 92.755 -306.288 0.000 92.755 -306.288 13.748 146.538 -306.287 13.748</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>92.755 -316.585 13.748 147.050 -316.907 13.748 146.538 -306.287 13.748 92.755 -306.288 13.748</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>200.123 -255.134 0.000 125.222 -253.811 0.000 125.222 -253.811 13.865 200.123 -255.134 13.865</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>125.222 -253.811 0.000 125.333 -269.563 0.000 125.333 -269.563 13.865 125.222 -253.811 13.865</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>125.333 -269.563 0.000 199.799 -270.218 0.000 199.799 -270.218 13.865 125.333 -269.563 13.865</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>199.799 -270.218 0.000 199.961 -260.589 0.000 199.961 -260.589 13.865 199.799 -270.218 13.865</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>199.961 -260.589 0.000 217.291 -260.755 0.000 217.291 -260.755 13.865 199.961 -260.589 13.865</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>217.291 -260.755 0.000 217.291 -249.523 0.000 217.291 -249.523 13.865 217.291 -260.755 13.865</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>217.291 -249.523 0.000 200.276 -249.034 0.000 200.276 -249.034 13.865 217.291 -249.523 13.865</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>200.276 -249.034 0.000 200.123 -255.134 0.000 200.123 -255.134 13.865 200.276 -249.034 13.865</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>125.222 -253.811 13.865 125.333 -269.563 13.865 199.799 -270.218 13.865 199.961 -260.589 13.865 217.291 -260.755 13.865 217.291 -249.523 13.865 200.276 -249.034 13.865 200.123 -255.134 13.865</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>158.823 -219.368 0.000 127.363 -218.734 0.000 127.363 -218.734 16.318 158.823 -219.368 16.318</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>127.363 -218.734 0.000 127.363 -230.122 0.000 127.363 -230.122 16.318 127.363 -218.734 16.318</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>127.363 -230.122 0.000 159.301 -230.611 0.000 159.301 -230.611 16.318 127.363 -230.122 16.318</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>159.301 -230.611 0.000 159.301 -225.635 0.000 159.301 -225.635 16.318 159.301 -230.611 16.318</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>159.301 -225.635 0.000 237.308 -225.633 0.000 237.308 -225.633 16.318 159.301 -225.635 16.318</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>237.308 -225.633 0.000 237.307 -214.880 0.000 237.307 -214.880 16.318 237.308 -225.633 16.318</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>237.307 -214.880 0.000 158.985 -214.882 0.000 158.985 -214.882 16.318 237.307 -214.880 16.318</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>158.985 -214.882 0.000 158.823 -219.368 0.000 158.823 -219.368 16.318 158.985 -214.882 16.318</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>127.363 -218.734 16.318 127.363 -230.122 16.318 159.301 -230.611 16.318 159.301 -225.635 16.318 237.308 -225.633 16.318 237.307 -214.880 16.318 158.985 -214.882 16.318 158.823 -219.368 16.318</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>48.716 -173.907 0.000 48.716 -185.350 0.000 48.716 -185.350 17.114 48.716 -173.907 17.114</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>48.716 -185.350 0.000 106.389 -183.513 0.000 106.389 -183.513 17.114 48.716 -185.350 17.114</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>106.389 -183.513 0.000 104.554 -172.982 0.000 104.554 -172.982 17.114 106.389 -183.513 17.114</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>104.554 -172.982 0.000 48.716 -173.907 0.000 48.716 -173.907 17.114 104.554 -172.982 17.114</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>48.716 -185.350 17.114 106.389 -183.513 17.114 104.554 -172.982 17.114 48.716 -173.907 17.114</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>58.561 -8.820 0.000 59.936 -73.352 0.000 59.936 -73.352 5.070 58.561 -8.820 5.070</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>59.936 -73.352 0.000 95.005 -73.340 0.000 95.005 -73.340 5.070 59.936 -73.352 5.070</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>95.005 -73.340 0.000 91.975 -7.907 0.000 91.975 -7.907 5.070 95.005 -73.340 5.070</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>91.975 -7.907 0.000 58.561 -8.820 0.000 58.561 -8.820 5.070 91.975 -7.907 5.070</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>59.936 -73.352 5.070 95.005 -73.340 5.070 91.975 -7.907 5.070 58.561 -8.820 5.070</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-5.339 -368.037 0.000 -5.800 -379.982 0.000 -5.800 -379.982 19.626 -5.339 -368.037 19.626</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-5.800 -379.982 0.000 62.626 -379.514 0.000 62.626 -379.514 19.626 -5.800 -379.982 19.626</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>62.626 -379.514 0.000 62.626 -367.124 0.000 62.626 -367.124 19.626 62.626 -379.514 19.626</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>62.626 -367.124 0.000 -5.339 -368.037 0.000 -5.339 -368.037 19.626 62.626 -367.124 19.626</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-5.800 -379.982 19.626 62.626 -379.514 19.626 62.626 -367.124 19.626 -5.339 -368.037 19.626</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>93.121 -225.970 0.000 73.666 -226.193 0.000 73.666 -226.193 12.872 93.121 -225.970 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>73.666 -226.193 0.000 73.436 -241.756 0.000 73.436 -241.756 12.872 73.666 -226.193 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>73.436 -241.756 0.000 94.495 -240.843 0.000 94.495 -240.843 12.872 73.436 -241.756 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>94.495 -240.843 0.000 94.034 -244.962 0.000 94.034 -244.962 12.872 94.495 -240.843 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>94.034 -244.962 0.000 113.719 -244.282 0.000 113.719 -244.282 12.872 94.034 -244.962 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>113.719 -244.282 0.000 112.797 -226.649 0.000 112.797 -226.649 12.872 113.719 -244.282 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>112.797 -226.649 0.000 119.897 -226.883 0.000 119.897 -226.883 12.872 112.797 -226.649 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>119.897 -226.883 0.000 119.666 -220.705 0.000 119.666 -220.705 12.872 119.897 -226.883 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>119.666 -220.705 0.000 111.202 -220.705 0.000 111.202 -220.705 12.872 119.666 -220.705 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>111.202 -220.705 0.000 111.202 -213.146 0.000 111.202 -213.146 12.872 111.202 -220.705 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>111.202 -213.146 0.000 92.660 -213.380 0.000 92.660 -213.380 12.872 111.202 -213.146 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>92.660 -213.380 0.000 93.121 -225.970 0.000 93.121 -225.970 12.872 92.660 -213.380 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>73.666 -226.193 12.872 73.436 -241.756 12.872 94.495 -240.843 12.872 94.034 -244.962 12.872 113.719 -244.282 12.872 112.797 -226.649 12.872 119.897 -226.883 12.872 119.666 -220.705 12.872 111.202 -220.705 12.872 111.202 -213.146 12.872 92.660 -213.380 12.872 93.121 -225.970 12.872</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>232.505 -252.673 0.000 234.128 -312.975 0.000 234.128 -312.975 18.770 232.505 -252.673 18.770</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>234.128 -312.975 0.000 253.258 -312.651 0.000 253.258 -312.651 18.770 234.128 -312.975 18.770</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>253.258 -312.651 0.000 251.311 -251.704 0.000 251.311 -251.704 18.770 253.258 -312.651 18.770</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>251.311 -251.704 0.000 232.505 -252.673 0.000 232.505 -252.673 18.770 251.311 -251.704 18.770</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>234.128 -312.975 18.770 253.258 -312.651 18.770 251.311 -251.704 18.770 232.505 -252.673 18.770</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>176.547 -277.465 0.000 159.388 -277.922 0.000 159.388 -277.922 4.304 176.547 -277.465 4.304</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>159.388 -277.922 0.000 159.610 -287.997 0.000 159.610 -287.997 4.304 159.388 -277.922 4.304</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>159.610 -287.997 0.000 163.279 -287.763 0.000 163.279 -287.763 4.304 159.610 -287.997 4.304</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>163.279 -287.763 0.000 163.501 -301.956 0.000 163.501 -301.956 4.304 163.279 -287.763 4.304</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>163.501 -301.956 0.000 177.239 -301.499 0.000 177.239 -301.499 4.304 163.501 -301.956 4.304</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>177.239 -301.499 0.000 176.547 -277.465 0.000 176.547 -277.465 4.304 177.239 -301.499 4.304</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>159.388 -277.922 4.304 159.610 -287.997 4.304 163.279 -287.763 4.304 163.501 -301.956 4.304 177.239 -301.499 4.304 176.547 -277.465 4.304</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>49.941 368.486 0.000 49.617 353.903 0.000 49.617 353.903 12.725 49.941 368.486 12.725</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>49.617 353.903 0.000 99.214 355.195 0.000 99.214 355.195 12.725 49.617 353.903 12.725</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>99.214 355.195 0.000 98.566 370.112 0.000 98.566 370.112 12.725 99.214 355.195 12.725</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>98.566 370.112 0.000 49.941 368.486 0.000 49.941 368.486 12.725 98.566 370.112 12.725</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>49.617 353.903 12.725 99.214 355.195 12.725 98.566 370.112 12.725 49.941 368.486 12.725</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>105.698 370.435 0.000 106.023 354.550 0.000 106.023 354.550 19.306 105.698 370.435 19.306</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>106.023 354.550 0.000 217.214 358.771 0.000 217.214 358.771 19.306 106.023 354.550 19.306</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>217.214 358.771 0.000 216.240 374.979 0.000 216.240 374.979 19.306 217.214 358.771 19.306</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>216.240 374.979 0.000 105.698 370.435 0.000 105.698 370.435 19.306 216.240 374.979 19.306</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>106.023 354.550 19.306 217.214 358.771 19.306 216.240 374.979 19.306 105.698 370.435 19.306</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-185.745 -114.605 0.000 -207.256 -115.517 0.000 -207.256 -115.517 17.080 -185.745 -114.605 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-207.256 -115.517 0.000 -206.344 -149.848 0.000 -206.344 -149.848 17.080 -207.256 -115.517 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-206.344 -149.848 0.000 -204.509 -156.716 0.000 -204.509 -156.716 17.080 -206.344 -149.848 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-204.509 -156.716 0.000 -131.734 -155.338 0.000 -131.734 -155.338 17.080 -204.509 -156.716 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-131.734 -155.338 0.000 -133.107 -125.126 0.000 -133.107 -125.126 17.080 -131.734 -155.338 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-133.107 -125.126 0.000 -116.170 -124.213 0.000 -116.170 -124.213 17.080 -133.107 -125.126 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-116.170 -124.213 0.000 -114.336 -154.882 0.000 -114.336 -154.882 17.080 -116.170 -124.213 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-114.336 -154.882 0.000 -108.388 -154.882 0.000 -108.388 -154.882 17.080 -114.336 -154.882 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-108.388 -154.882 0.000 -101.520 -153.969 0.000 -101.520 -153.969 17.080 -108.388 -154.882 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-101.520 -153.969 0.000 -96.485 -151.219 0.000 -96.485 -151.219 17.080 -101.520 -153.969 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-96.485 -151.219 0.000 -89.164 -144.819 0.000 -89.164 -144.819 17.080 -96.485 -151.219 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-89.164 -144.819 0.000 -85.504 -142.525 0.000 -85.504 -142.525 17.080 -89.164 -144.819 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-85.504 -142.525 0.000 -89.181 -107.527 0.000 -89.181 -107.527 17.080 -85.504 -142.525 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-89.181 -107.527 0.000 -167.912 -110.731 0.000 -167.912 -110.731 17.080 -89.181 -107.527 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-167.912 -110.731 0.000 -177.519 -105.699 0.000 -177.519 -105.699 17.080 -167.912 -110.731 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-177.519 -105.699 0.000 -185.745 -114.605 0.000 -185.745 -114.605 17.080 -177.519 -105.699 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-207.256 -115.517 17.080 -206.344 -149.848 17.080 -204.509 -156.716 17.080 -131.734 -155.338 17.080 -133.107 -125.126 17.080 -116.170 -124.213 17.080 -114.336 -154.882 17.080 -108.388 -154.882 17.080 -101.520 -153.969 17.080 -96.485 -151.219 17.080 -89.164 -144.819 17.080 -85.504 -142.525 17.080 -89.181 -107.527 17.080 -167.912 -110.731 17.080 -177.519 -105.699 17.080 -185.745 -114.605 17.080</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>210.170 204.549 0.000 211.451 163.472 0.000 211.451 163.472 4.806 210.170 204.549 4.806</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>211.451 163.472 0.000 225.632 163.907 0.000 225.632 163.907 4.806 211.451 163.472 4.806</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>225.632 163.907 0.000 224.351 204.983 0.000 224.351 204.983 4.806 225.632 163.907 4.806</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>224.351 204.983 0.000 210.170 204.549 0.000 210.170 204.549 4.806 224.351 204.983 4.806</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>211.451 163.472 4.806 225.632 163.907 4.806 224.351 204.983 4.806 210.170 204.549 4.806</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>170.260 -365.208 0.000 118.303 -365.209 0.000 118.303 -365.209 7.218 170.260 -365.208 7.218</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>118.303 -365.209 0.000 118.082 -382.830 0.000 118.082 -382.830 7.218 118.303 -365.209 7.218</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>118.082 -382.830 0.000 170.943 -383.297 0.000 170.943 -383.297 7.218 118.082 -382.830 7.218</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>170.943 -383.297 0.000 170.260 -365.208 0.000 170.260 -365.208 7.218 170.943 -383.297 7.218</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>118.303 -365.209 7.218 118.082 -382.830 7.218 170.943 -383.297 7.218 170.260 -365.208 7.218</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>91.757 -347.131 0.000 91.757 -382.831 0.000 91.757 -382.831 15.773 91.757 -347.131 15.773</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>91.757 -382.831 0.000 108.926 -382.831 0.000 108.926 -382.831 15.773 91.757 -382.831 15.773</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>108.926 -382.831 0.000 108.695 -358.808 0.000 108.695 -358.808 15.773 108.926 -382.831 15.773</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>108.695 -358.808 0.000 147.605 -359.030 0.000 147.605 -359.030 15.773 108.695 -358.808 15.773</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>147.605 -359.030 0.000 147.375 -346.673 0.000 147.375 -346.673 15.773 147.605 -359.030 15.773</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>147.375 -346.673 0.000 91.757 -347.131 0.000 91.757 -347.131 15.773 147.375 -346.673 15.773</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>91.757 -382.831 15.773 108.926 -382.831 15.773 108.695 -358.808 15.773 147.605 -359.030 15.773 147.375 -346.673 15.773 91.757 -347.131 15.773</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>152.409 -348.276 0.000 152.409 -359.943 0.000 152.409 -359.943 4.556 152.409 -348.276 4.556</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>152.409 -359.943 0.000 182.164 -360.176 0.000 182.164 -360.176 4.556 152.409 -359.943 4.556</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>182.164 -360.176 0.000 182.163 -348.276 0.000 182.163 -348.276 4.556 182.164 -360.176 4.556</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>182.163 -348.276 0.000 152.409 -348.276 0.000 152.409 -348.276 4.556 182.163 -348.276 4.556</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>152.409 -359.943 4.556 182.164 -360.176 4.556 182.163 -348.276 4.556 152.409 -348.276 4.556</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-6.678 235.760 0.000 -6.490 229.448 0.000 -6.490 229.448 13.309 -6.678 235.760 13.309</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-6.490 229.448 0.000 12.622 229.838 0.000 12.622 229.838 13.309 -6.490 229.448 13.309</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>12.622 229.838 0.000 14.149 192.379 0.000 14.149 192.379 13.309 12.622 229.838 13.309</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>14.149 192.379 0.000 37.664 193.525 0.000 37.664 193.525 13.309 14.149 192.379 13.309</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>37.664 193.525 0.000 35.173 236.907 0.000 35.173 236.907 13.309 37.664 193.525 13.309</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>35.173 236.907 0.000 -6.678 235.760 0.000 -6.678 235.760 13.309 35.173 236.907 13.309</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-6.490 229.448 13.309 12.622 229.838 13.309 14.149 192.379 13.309 37.664 193.525 13.309 35.173 236.907 13.309 -6.678 235.760 13.309</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-84.030 368.119 0.000 -83.263 347.124 0.000 -83.263 347.124 20.816 -84.030 368.119 20.816</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-83.263 347.124 0.000 -32.880 348.271 0.000 -32.880 348.271 20.816 -83.263 347.124 20.816</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-32.880 348.271 0.000 -33.264 369.265 0.000 -33.264 369.265 20.816 -32.880 348.271 20.816</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-33.264 369.265 0.000 -84.030 368.119 0.000 -84.030 368.119 20.816 -33.264 369.265 20.816</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-83.263 347.124 20.816 -32.880 348.271 20.816 -33.264 369.265 20.816 -84.030 368.119 20.816</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>231.391 -372.019 0.000 195.842 -371.953 0.000 195.842 -371.953 16.005 231.391 -372.019 16.005</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>195.842 -371.953 0.000 195.817 -382.283 0.000 195.817 -382.283 16.005 195.842 -371.953 16.005</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>195.817 -382.283 0.000 231.374 -382.371 0.000 231.374 -382.371 16.005 195.817 -382.283 16.005</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>231.374 -382.371 0.000 231.391 -372.019 0.000 231.391 -372.019 16.005 231.374 -382.371 16.005</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>195.842 -371.953 16.005 195.817 -382.283 16.005 231.374 -382.371 16.005 231.391 -372.019 16.005</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-1.000 -1.000 -1.000 -1.000 -1.000 1.000 -1.000 1.000 1.000 -1.000 1.000 -1.000</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-1.000 1.000 -1.000 -1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 -1.000</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>1.000 1.000 -1.000 1.000 1.000 1.000 1.000 -1.000 1.000 1.000 -1.000 -1.000</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>1.000 -1.000 -1.000 1.000 -1.000 1.000 -1.000 -1.000 1.000 -1.000 -1.000 -1.000</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-1.000 1.000 -1.000 1.000 1.000 -1.000 1.000 -1.000 -1.000 -1.000 -1.000 -1.000</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>1.000 1.000 1.000 -1.000 1.000 1.000 -1.000 -1.000 1.000 1.000 -1.000 1.000</fPointPos>
+      <buildingID>map_3.osm_buildings</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+  </tBuilding>
+</tBuildings>

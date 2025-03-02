@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<tBuildings>
+  <tBuilding>
+    <tFace>
+      <fPointPos>8.100 11.000 3.450 0.000 11.000 3.450 0.000 10.800 3.450 8.100 10.800 3.450</fPointPos>
+      <buildingID>Cube</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 10.800 0.000 8.100 10.800 3.450 0.000 10.800 3.450 0.000 10.800 0.000</fPointPos>
+      <buildingID>Cube</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.800 0.000 0.000 10.800 3.450 0.000 11.000 3.450 0.000 11.000 0.000</fPointPos>
+      <buildingID>Cube</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 11.000 0.000 8.100 11.000 0.000 8.100 10.800 0.000 0.000 10.800 0.000</fPointPos>
+      <buildingID>Cube</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 11.000 0.000 8.100 11.000 3.450 8.100 10.800 3.450 8.100 10.800 0.000</fPointPos>
+      <buildingID>Cube</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 11.000 0.000 0.000 11.000 3.450 8.100 11.000 3.450 8.100 11.000 0.000</fPointPos>
+      <buildingID>Cube</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 0.000 0.000 8.100 0.000 3.450 8.100 10.800 3.450 8.100 10.800 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 10.800 0.000 8.100 10.800 3.450 8.300 10.800 3.450 8.300 10.800 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.300 10.800 0.000 8.300 10.800 3.450 8.300 0.000 3.450 8.300 0.000 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.300 0.000 0.000 8.300 0.000 3.450 8.100 0.000 3.450 8.100 0.000 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 10.800 0.000 8.300 10.800 0.000 8.300 0.000 0.000 8.100 0.000 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.300 10.800 3.450 8.100 10.800 3.450 8.100 0.000 3.450 8.300 0.000 3.450</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 0.000 3.450 0.000 0.000 3.450 0.000 -0.200 3.450 8.100 -0.200 3.450</fPointPos>
+      <buildingID>Cube.001</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 -0.200 0.000 8.100 -0.200 3.450 0.000 -0.200 3.450 0.000 -0.200 0.000</fPointPos>
+      <buildingID>Cube.001</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 -0.200 0.000 0.000 -0.200 3.450 0.000 0.000 3.450 0.000 0.000 0.000</fPointPos>
+      <buildingID>Cube.001</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 0.000 0.000 8.100 0.000 0.000 8.100 -0.200 0.000 0.000 -0.200 0.000</fPointPos>
+      <buildingID>Cube.001</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 0.000 0.000 8.100 0.000 3.450 8.100 -0.200 3.450 8.100 -0.200 0.000</fPointPos>
+      <buildingID>Cube.001</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 0.000 0.000 0.000 0.000 3.450 8.100 0.000 3.450 8.100 0.000 0.000</fPointPos>
+      <buildingID>Cube.001</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-0.200 0.000 0.000 -0.200 0.000 3.450 -0.200 10.800 3.450 -0.200 10.800 0.000</fPointPos>
+      <buildingID>立方体.001</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-0.200 10.800 0.000 -0.200 10.800 3.450 0.000 10.800 3.450 0.000 10.800 0.000</fPointPos>
+      <buildingID>立方体.001</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.800 0.000 0.000 10.800 3.450 0.000 0.000 3.450 0.000 0.000 0.000</fPointPos>
+      <buildingID>立方体.001</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 0.000 0.000 0.000 0.000 3.450 -0.200 0.000 3.450 -0.200 0.000 0.000</fPointPos>
+      <buildingID>立方体.001</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>-0.200 10.800 0.000 0.000 10.800 0.000 0.000 0.000 0.000 -0.200 0.000 0.000</fPointPos>
+      <buildingID>立方体.001</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.800 3.450 -0.200 10.800 3.450 -0.200 0.000 3.450 0.000 0.000 3.450</fPointPos>
+      <buildingID>立方体.001</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 0.000 3.450 0.000 0.000 3.650 0.000 10.800 3.650 0.000 10.800 3.450</fPointPos>
+      <buildingID>立方体.002</buildingID>
+      <material>8</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.800 3.450 0.000 10.800 3.650 8.100 10.800 3.650 8.100 10.800 3.450</fPointPos>
+      <buildingID>立方体.002</buildingID>
+      <material>8</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 10.800 3.450 8.100 10.800 3.650 8.100 0.000 3.650 8.100 0.000 3.450</fPointPos>
+      <buildingID>立方体.002</buildingID>
+      <material>8</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 0.000 3.450 8.100 0.000 3.650 0.000 0.000 3.650 0.000 0.000 3.450</fPointPos>
+      <buildingID>立方体.002</buildingID>
+      <material>8</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>3.350 0.000 1.000 3.350 0.000 2.200 3.350 0.020 2.200 3.350 0.020 1.000</fPointPos>
+      <buildingID>立方体.003</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>3.350 0.020 1.000 3.350 0.020 2.200 5.350 0.020 2.200 5.350 0.020 1.000</fPointPos>
+      <buildingID>立方体.003</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>5.350 0.020 1.000 5.350 0.020 2.200 5.350 0.000 2.200 5.350 0.000 1.000</fPointPos>
+      <buildingID>立方体.003</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>5.350 0.000 1.000 5.350 0.000 2.200 3.350 0.000 2.200 3.350 0.000 1.000</fPointPos>
+      <buildingID>立方体.003</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>3.350 0.020 1.000 5.350 0.020 1.000 5.350 0.000 1.000 3.350 0.000 1.000</fPointPos>
+      <buildingID>立方体.003</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>5.350 0.020 2.200 3.350 0.020 2.200 3.350 0.000 2.200 5.350 0.000 2.200</fPointPos>
+      <buildingID>立方体.003</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.500 0.000 0.000 10.500 3.450 0.000 10.800 3.450 0.000 10.800 0.000</fPointPos>
+      <buildingID>立方体.004</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.800 0.000 0.000 10.800 3.450 0.650 10.800 3.450 0.650 10.800 0.000</fPointPos>
+      <buildingID>立方体.004</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.650 10.800 0.000 0.650 10.800 3.450 0.650 10.500 3.450 0.650 10.500 0.000</fPointPos>
+      <buildingID>立方体.004</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.650 10.500 0.000 0.650 10.500 3.450 0.000 10.500 3.450 0.000 10.500 0.000</fPointPos>
+      <buildingID>立方体.004</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.800 0.000 0.650 10.800 0.000 0.650 10.500 0.000 0.000 10.500 0.000</fPointPos>
+      <buildingID>立方体.004</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.650 10.800 3.450 0.000 10.800 3.450 0.000 10.500 3.450 0.650 10.500 3.450</fPointPos>
+      <buildingID>立方体.004</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 4.525 0.000 0.000 4.525 3.450 0.000 4.975 3.450 0.000 4.975 0.000</fPointPos>
+      <buildingID>立方体.005</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 4.975 0.000 0.000 4.975 3.450 0.650 4.975 3.450 0.650 4.975 0.000</fPointPos>
+      <buildingID>立方体.005</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.650 4.975 0.000 0.650 4.975 3.450 0.650 4.525 3.450 0.650 4.525 0.000</fPointPos>
+      <buildingID>立方体.005</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.650 4.525 0.000 0.650 4.525 3.450 0.000 4.525 3.450 0.000 4.525 0.000</fPointPos>
+      <buildingID>立方体.005</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 4.975 0.000 0.650 4.975 0.000 0.650 4.525 0.000 0.000 4.525 0.000</fPointPos>
+      <buildingID>立方体.005</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.650 4.975 3.450 0.000 4.975 3.450 0.000 4.525 3.450 0.650 4.525 3.450</fPointPos>
+      <buildingID>立方体.005</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>2.500 0.950 0.000 2.500 0.950 1.000 2.500 1.550 1.000 2.500 1.550 0.000</fPointPos>
+      <buildingID>立方体.006</buildingID>
+      <material>11</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>2.500 1.550 0.000 2.500 1.550 1.000 4.100 1.550 1.000 4.100 1.550 0.000</fPointPos>
+      <buildingID>立方体.006</buildingID>
+      <material>11</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>4.100 1.550 0.000 4.100 1.550 1.000 4.100 0.950 1.000 4.100 0.950 0.000</fPointPos>
+      <buildingID>立方体.006</buildingID>
+      <material>11</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>4.100 0.950 0.000 4.100 0.950 1.000 2.500 0.950 1.000 2.500 0.950 0.000</fPointPos>
+      <buildingID>立方体.006</buildingID>
+      <material>11</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>2.500 1.550 0.000 4.100 1.550 0.000 4.100 0.950 0.000 2.500 0.950 0.000</fPointPos>
+      <buildingID>立方体.006</buildingID>
+      <material>11</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>4.100 1.550 1.000 2.500 1.550 1.000 2.500 0.950 1.000 4.100 0.950 1.000</fPointPos>
+      <buildingID>立方体.006</buildingID>
+      <material>11</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>7.500 2.400 0.000 7.500 2.400 1.300 7.500 3.200 1.300 7.500 3.200 0.000</fPointPos>
+      <buildingID>立方体.007</buildingID>
+      <material>14</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>7.500 3.200 0.000 7.500 3.200 1.300 8.100 3.200 1.300 8.100 3.200 0.000</fPointPos>
+      <buildingID>立方体.007</buildingID>
+      <material>14</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 3.200 0.000 8.100 3.200 1.300 8.100 2.400 1.300 8.100 2.400 0.000</fPointPos>
+      <buildingID>立方体.007</buildingID>
+      <material>14</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 2.400 0.000 8.100 2.400 1.300 7.500 2.400 1.300 7.500 2.400 0.000</fPointPos>
+      <buildingID>立方体.007</buildingID>
+      <material>14</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>7.500 3.200 0.000 8.100 3.200 0.000 8.100 2.400 0.000 7.500 2.400 0.000</fPointPos>
+      <buildingID>立方体.007</buildingID>
+      <material>14</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 3.200 1.300 7.500 3.200 1.300 7.500 2.400 1.300 8.100 2.400 1.300</fPointPos>
+      <buildingID>立方体.007</buildingID>
+      <material>14</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>1.300 10.550 0.000 1.300 10.550 1.850 1.300 10.800 1.850 1.300 10.800 0.000</fPointPos>
+      <buildingID>立方体.008</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>1.300 10.800 0.000 1.300 10.800 1.850 2.000 10.800 1.850 2.000 10.800 0.000</fPointPos>
+      <buildingID>立方体.008</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>2.000 10.800 0.000 2.000 10.800 1.850 2.000 10.550 1.850 2.000 10.550 0.000</fPointPos>
+      <buildingID>立方体.008</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>2.000 10.550 0.000 2.000 10.550 1.850 1.300 10.550 1.850 1.300 10.550 0.000</fPointPos>
+      <buildingID>立方体.008</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>1.300 10.800 0.000 2.000 10.800 0.000 2.000 10.550 0.000 1.300 10.550 0.000</fPointPos>
+      <buildingID>立方体.008</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>2.000 10.800 1.850 1.300 10.800 1.850 1.300 10.550 1.850 2.000 10.550 1.850</fPointPos>
+      <buildingID>立方体.008</buildingID>
+      <material>6</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 0.000 -0.200 0.000 0.000 0.000 0.000 10.800 0.000 0.000 10.800 -0.200</fPointPos>
+      <buildingID>立方体.009</buildingID>
+      <material>13</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.800 -0.200 0.000 10.800 0.000 8.100 10.800 0.000 8.100 10.800 -0.200</fPointPos>
+      <buildingID>立方体.009</buildingID>
+      <material>13</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 10.800 -0.200 8.100 10.800 0.000 8.100 0.000 0.000 8.100 0.000 -0.200</fPointPos>
+      <buildingID>立方体.009</buildingID>
+      <material>13</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 0.000 -0.200 8.100 0.000 0.000 0.000 0.000 0.000 0.000 0.000 -0.200</fPointPos>
+      <buildingID>立方体.009</buildingID>
+      <material>13</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.800 -0.200 8.100 10.800 -0.200 8.100 0.000 -0.200 0.000 0.000 -0.200</fPointPos>
+      <buildingID>立方体.009</buildingID>
+      <material>13</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>8.100 10.800 0.000 0.000 10.800 0.000 0.000 0.000 0.000 8.100 0.000 0.000</fPointPos>
+      <buildingID>立方体.009</buildingID>
+      <material>13</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+  </tBuilding>
+</tBuildings>

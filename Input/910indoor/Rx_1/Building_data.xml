@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<tBuildings>
+  <tBuilding>
+    <tFace>
+      <fPointPos> 8.640 0.000 0.000 8.640 1.823 0.000 8.640 1.823 2.400 8.640 0.000 2.400</fPointPos>
+      <material>2</material>
+      <thickness>0.3</thickness>
+    </tFace>
+    <tFace>
+      <fPointPos> 0.000 0.000 0.000 0.000 0.000 2.400 0.000 1.823 2.400 0.000 1.823 0.000</fPointPos>
+      <material>2</material>
+      <thickness>0.3</thickness>
+    </tFace>
+    <tFace>
+      <fPointPos> 3.740 1.383 2.400 3.740 1.383 0.000 3.740 1.823 0.000 3.740 1.823 2.400</fPointPos>
+      <material>2</material>
+      <thickness>0.3</thickness>
+    </tFace>
+    <tFace>
+      <fPointPos> 3.740 1.823 2.400 3.740 1.823 0.000 0.000 1.823 0.000 0.000 1.823 2.400</fPointPos>
+      <material>2</material>
+      <thickness>0.3</thickness>
+    </tFace>
+    <tFace>
+      <fPointPos> 8.640 0.000 0.000 0.000 0.000 0.000 0.000 1.823 0.000 3.740 1.823 0.000 3.740 1.383 0.000 4.540 1.383 0.000 4.540 1.823 0.000 8.640 1.823 0.000</fPointPos>
+      <material>2</material>
+      <thickness>0.3</thickness>
+    </tFace>
+    <tFace>
+      <fPointPos> 0.000 0.000 2.400 0.000 0.000 0.000 8.640 0.000 0.000 8.640 0.000 2.400</fPointPos>
+      <material>2</material>
+      <thickness>0.3</thickness>
+    </tFace>
+    <tFace>
+      <fPointPos> 4.540 1.383 2.400 4.540 1.383 0.000 3.740 1.383 0.000 3.740 1.383 2.400</fPointPos>
+      <material>2</material>
+      <thickness>0.3</thickness>
+    </tFace>
+    <tFace>
+      <fPointPos> 4.540 1.383 0.000 4.540 1.383 2.400 4.540 1.823 2.400 4.540 1.823 0.000</fPointPos>
+      <material>2</material>
+      <thickness>0.3</thickness>
+    </tFace>
+    <tFace>
+      <fPointPos> 8.640 1.823 2.400 8.640 1.823 0.000 4.540 1.823 0.000 4.540 1.823 2.400</fPointPos>
+      <material>2</material>
+      <thickness>0.3</thickness>
+    </tFace>
+  </tBuilding>
+</tBuildings>

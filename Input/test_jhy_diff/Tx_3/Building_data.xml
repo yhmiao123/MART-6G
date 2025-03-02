@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<tBuildings>
+  <tBuilding>
+    <tFace>
+      <fPointPos>0.000 10.100 0.000 20.000 10.100 0.000 20.000 9.900 0.000 0.000 9.900 0.000</fPointPos>
+      <buildingID>立方体</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 0.000 0.000 40.000 0.000 0.000 40.000 20.000 0.000 0.000 20.000 0.000</fPointPos>
+      <buildingID>平面</buildingID>
+      <material>2</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>20.000 10.100 10.000 0.000 10.100 10.000 0.000 9.900 10.000 20.000 9.900 10.000</fPointPos>
+      <buildingID>立方体.001</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 9.900 0.000 0.000 9.900 10.000 0.000 10.100 10.000 0.000 10.100 0.000</fPointPos>
+      <buildingID>立方体.002</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>0.000 10.100 0.000 0.000 10.100 10.000 20.000 10.100 10.000 20.000 10.100 0.000</fPointPos>
+      <buildingID>立方体.003</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>20.000 9.900 0.000 20.000 9.900 10.000 0.000 9.900 10.000 0.000 9.900 0.000</fPointPos>
+      <buildingID>立方体.004</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>1</ifscatting>
+      <S>0.5</S>
+      <alpha_R>5</alpha_R>
+      <model_type>2</model_type>
+    </tFace>
+    <tFace>
+      <fPointPos>20.000 10.100 0.000 20.000 10.100 10.000 20.000 9.900 10.000 20.000 9.900 0.000</fPointPos>
+      <buildingID>立方体.005</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>0</ifscatting>
+    </tFace>
+    <tFace>
+      <fPointPos>19.953 1.474 0.056 19.953 1.474 10.056 -0.047 1.474 10.056 -0.047 1.474 0.056</fPointPos>
+      <buildingID>立方体.006</buildingID>
+      <material>4</material>
+      <thickness>0.5</thickness>
+      <ifscatting>1</ifscatting>
+      <S>0.5</S>
+      <alpha_R>5</alpha_R>
+      <model_type>2</model_type>
+    </tFace>
+  </tBuilding>
+</tBuildings>
