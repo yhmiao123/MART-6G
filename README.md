@@ -22,7 +22,7 @@ The platform's architecture is shown in the figure below. For a deeper understan
 - **全面电波传播模型**：平台基于射线追踪的原理和技术，能够精确模拟信号在各种场景中的传播路径，包括直射、反射、穿透、高阶绕射和散射等多种机制。
 - **支持用户自定义**：用户都可以通过定制化的场景，材质设置和天线参数调整，获得符合实际应用需求的仿真结果。
 - **支持6G新技术仿真**：平台支持太赫兹（THz）频段的传播模型，信道层的多输入多输出（MIMO）仿真，智能反射面（RIS）仿真，以及正交频分复用（OFDM）仿真。
--**支持硬件加速**：MATLAB版本的平台支持CPU多核计算；C++版本的平台支持GPU多核计算。
+- **支持硬件加速**：MATLAB版本的平台支持CPU多核计算；C++版本的平台支持GPU多核计算。
 
 ## How to Obtain the Full Code? 如何获取完整代码？
 To protect certain rights of the developers, this repository only provides partial platform functionality (CPU single-core ray tracing for the MATLAB platform) along with a complete user manual (currently available only in Chinese). To access the full code, please contact me:
