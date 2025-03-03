@@ -24,6 +24,11 @@ The platform's architecture is shown in the figure below. For a deeper understan
 - **支持6G新技术仿真**：平台支持太赫兹（THz）频段的传播模型，信道层的多输入多输出（MIMO）仿真，智能反射面（RIS）仿真，以及正交频分复用（OFDM）仿真。
 - **支持硬件加速**：MATLAB版本的平台支持CPU多核计算；C++版本的平台支持GPU多核计算。
 
+## User Interface 支持UI交互
+Some features of the platform also support interaction via a UI. The UI interface of the current version is shown below.
+平台的部分功能也支持通过UI的方式进行交互；当前版本UI界面如所示。
+![UI Interface](./images/RTUIV1.jpg)
+
 ## How to Obtain the Full Code? 如何获取完整代码？
 To protect certain rights of the developers, this repository only provides partial platform functionality (CPU single-core ray tracing for the MATLAB platform) along with a complete user manual (currently available only in Chinese). To access the full code, please contact me:
 - Send an email to [yhmiao@bupt.edu.cn], stating your identity and intended use.
